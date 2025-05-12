@@ -1,0 +1,709 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\EhtishamAli\\UpdatedWork\\UpdatedWork\\Hidayah\\Hidayah\\Hidayah\\Hidayah\\wwwroot\\assets\\audio\\Ain(ʿA–deepthroatsound).mp3",
+      "PackagePath": "staticwebassets\\assets\\audio\\Ain(ʿA–deepthroatsound).mp3"
+    },
+    {
+      "Id": "C:\\EhtishamAli\\UpdatedWork\\UpdatedWork\\Hidayah\\Hidayah\\Hidayah\\Hidayah\\wwwroot\\assets\\audio\\Alif(A).mp3",
+      "PackagePath": "staticwebassets\\assets\\audio\\Alif(A).mp3"
+    },
+    {
+      "Id": "C:\\EhtishamAli\\UpdatedWork\\UpdatedWork\\Hidayah\\Hidayah\\Hidayah\\Hidayah\\wwwroot\\assets\\audio\\Alif(A).wav",
+      "PackagePath": "staticwebassets\\assets\\audio\\Alif(A).wav"
+    },
+    {
+      "Id": "C:\\EhtishamAli\\UpdatedWork\\UpdatedWork\\Hidayah\\Hidayah\\Hidayah\\Hidayah\\wwwroot\\assets\\audio\\Baa(B).mp3",
+      "PackagePath": "staticwebassets\\assets\\audio\\Baa(B).mp3"
+    },
+    {
+      "Id": "C:\\EhtishamAli\\UpdatedWork\\UpdatedWork\\Hidayah\\Hidayah\\Hidayah\\Hidayah\\wwwroot\\assets\\audio\\Compound-Letters-Audios\\Alif(A).wav",
+      "PackagePath": "staticwebassets\\assets\\audio\\Compound-Letters-Audios\\Alif(A).wav"
+    },
+    {
+      "Id": "C:\\EhtishamAli\\UpdatedWork\\UpdatedWork\\Hidayah\\Hidayah\\Hidayah\\Hidayah\\wwwroot\\assets\\audio\\Compound-Letters-Audios\\Baa(B).wav",
+      "PackagePath": "staticwebassets\\assets\\audio\\Compound-Letters-Audios\\Baa(B).wav"
+    },
+    {
+      "Id": "C:\\EhtishamAli\\UpdatedWork\\UpdatedWork\\Hidayah\\Hidayah\\Hidayah\\Hidayah\\wwwroot\\assets\\audio\\Compound-Letters-Audios\\BaaAlif(Baa).wav",
+      "PackagePath": "staticwebassets\\assets\\audio\\Compound-Letters-Audios\\BaaAlif(Baa).wav"
+    },
+    {
+      "Id": "C:\\EhtishamAli\\UpdatedWork\\UpdatedWork\\Hidayah\\Hidayah\\Hidayah\\Hidayah\\wwwroot\\assets\\audio\\Compound-Letters-Audios\\BaaAlif(Baa)1.wav",
+      "PackagePath": "staticwebassets\\assets\\audio\\Compound-Letters-Audios\\BaaAlif(Baa)1.wav"
+    },
+    {
+      "Id": "C:\\EhtishamAli\\UpdatedWork\\UpdatedWork\\Hidayah\\Hidayah\\Hidayah\\Hidayah\\wwwroot\\assets\\audio\\Compound-Letters-Audios\\BaaAlif.wav",
+      "PackagePath": "staticwebassets\\assets\\audio\\Compound-Letters-Audios\\BaaAlif.wav"
+    },
+    {
+      "Id": "C:\\EhtishamAli\\UpdatedWork\\UpdatedWork\\Hidayah\\Hidayah\\Hidayah\\Hidayah\\wwwroot\\assets\\audio\\Compound-Letters-Audios\\BaaJeem.wav",
+      "PackagePath": "staticwebassets\\assets\\audio\\Compound-Letters-Audios\\BaaJeem.wav"
+    },
+    {
+      "Id": "C:\\EhtishamAli\\UpdatedWork\\UpdatedWork\\Hidayah\\Hidayah\\Hidayah\\Hidayah\\wwwroot\\assets\\audio\\Compound-Letters-Audios\\BaaKaafTaa.wav",
+      "PackagePath": "staticwebassets\\assets\\audio\\Compound-Letters-Audios\\BaaKaafTaa.wav"
+    },
+    {
+      "Id": "C:\\EhtishamAli\\UpdatedWork\\UpdatedWork\\Hidayah\\Hidayah\\Hidayah\\Hidayah\\wwwroot\\assets\\audio\\Compound-Letters-Audios\\BaaLaamBaa.wav",
+      "PackagePath": "staticwebassets\\assets\\audio\\Compound-Letters-Audios\\BaaLaamBaa.wav"
+    },
+    {
+      "Id": "C:\\EhtishamAli\\UpdatedWork\\UpdatedWork\\Hidayah\\Hidayah\\Hidayah\\Hidayah\\wwwroot\\assets\\audio\\Compound-Letters-Audios\\BaaMeem.wav",
+      "PackagePath": "staticwebassets\\assets\\audio\\Compound-Letters-Audios\\BaaMeem.wav"
+    },
+    {
+      "Id": "C:\\EhtishamAli\\UpdatedWork\\UpdatedWork\\Hidayah\\Hidayah\\Hidayah\\Hidayah\\wwwroot\\assets\\audio\\Compound-Letters-Audios\\BaaSeen.wav",
+      "PackagePath": "staticwebassets\\assets\\audio\\Compound-Letters-Audios\\BaaSeen.wav"
+    },
+    {
+      "Id": "C:\\EhtishamAli\\UpdatedWork\\UpdatedWork\\Hidayah\\Hidayah\\Hidayah\\Hidayah\\wwwroot\\assets\\audio\\Compound-Letters-Audios\\BaaYaa.wav",
+      "PackagePath": "staticwebassets\\assets\\audio\\Compound-Letters-Audios\\BaaYaa.wav"
+    },
+    {
+      "Id": "C:\\EhtishamAli\\UpdatedWork\\UpdatedWork\\Hidayah\\Hidayah\\Hidayah\\Hidayah\\wwwroot\\assets\\audio\\Compound-Letters-Audios\\BaaYaaLaam.wav",
+      "PackagePath": "staticwebassets\\assets\\audio\\Compound-Letters-Audios\\BaaYaaLaam.wav"
+    },
+    {
+      "Id": "C:\\EhtishamAli\\UpdatedWork\\UpdatedWork\\Hidayah\\Hidayah\\Hidayah\\Hidayah\\wwwroot\\assets\\audio\\Compound-Letters-Audios\\Kaaf(K).wav",
+      "PackagePath": "staticwebassets\\assets\\audio\\Compound-Letters-Audios\\Kaaf(K).wav"
+    },
+    {
+      "Id": "C:\\EhtishamAli\\UpdatedWork\\UpdatedWork\\Hidayah\\Hidayah\\Hidayah\\Hidayah\\wwwroot\\assets\\audio\\Compound-Letters-Audios\\Kaaf(K)1.wav",
+      "PackagePath": "staticwebassets\\assets\\audio\\Compound-Letters-Audios\\Kaaf(K)1.wav"
+    },
+    {
+      "Id": "C:\\EhtishamAli\\UpdatedWork\\UpdatedWork\\Hidayah\\Hidayah\\Hidayah\\Hidayah\\wwwroot\\assets\\audio\\Compound-Letters-Audios\\KaafAlif.wav",
+      "PackagePath": "staticwebassets\\assets\\audio\\Compound-Letters-Audios\\KaafAlif.wav"
+    },
+    {
+      "Id": "C:\\EhtishamAli\\UpdatedWork\\UpdatedWork\\Hidayah\\Hidayah\\Hidayah\\Hidayah\\wwwroot\\assets\\audio\\Compound-Letters-Audios\\KaafAlif1.wav",
+      "PackagePath": "staticwebassets\\assets\\audio\\Compound-Letters-Audios\\KaafAlif1.wav"
+    },
+    {
+      "Id": "C:\\EhtishamAli\\UpdatedWork\\UpdatedWork\\Hidayah\\Hidayah\\Hidayah\\Hidayah\\wwwroot\\assets\\audio\\Compound-Letters-Audios\\KaafBaa.wav",
+      "PackagePath": "staticwebassets\\assets\\audio\\Compound-Letters-Audios\\KaafBaa.wav"
+    },
+    {
+      "Id": "C:\\EhtishamAli\\UpdatedWork\\UpdatedWork\\Hidayah\\Hidayah\\Hidayah\\Hidayah\\wwwroot\\assets\\audio\\Compound-Letters-Audios\\KaafBaa1.wav",
+      "PackagePath": "staticwebassets\\assets\\audio\\Compound-Letters-Audios\\KaafBaa1.wav"
+    },
+    {
+      "Id": "C:\\EhtishamAli\\UpdatedWork\\UpdatedWork\\Hidayah\\Hidayah\\Hidayah\\Hidayah\\wwwroot\\assets\\audio\\Compound-Letters-Audios\\Laam.wav",
+      "PackagePath": "staticwebassets\\assets\\audio\\Compound-Letters-Audios\\Laam.wav"
+    },
+    {
+      "Id": "C:\\EhtishamAli\\UpdatedWork\\UpdatedWork\\Hidayah\\Hidayah\\Hidayah\\Hidayah\\wwwroot\\assets\\audio\\Compound-Letters-Audios\\LaamAlif(Laa).wav",
+      "PackagePath": "staticwebassets\\assets\\audio\\Compound-Letters-Audios\\LaamAlif(Laa).wav"
+    },
+    {
+      "Id": "C:\\EhtishamAli\\UpdatedWork\\UpdatedWork\\Hidayah\\Hidayah\\Hidayah\\Hidayah\\wwwroot\\assets\\audio\\Compound-Letters-Audios\\LaamAlif(Laa)1.wav",
+      "PackagePath": "staticwebassets\\assets\\audio\\Compound-Letters-Audios\\LaamAlif(Laa)1.wav"
+    },
+    {
+      "Id": "C:\\EhtishamAli\\UpdatedWork\\UpdatedWork\\Hidayah\\Hidayah\\Hidayah\\Hidayah\\wwwroot\\assets\\audio\\Compound-Letters-Audios\\LaamAlif(Laa)4.wav",
+      "PackagePath": "staticwebassets\\assets\\audio\\Compound-Letters-Audios\\LaamAlif(Laa)4.wav"
+    },
+    {
+      "Id": "C:\\EhtishamAli\\UpdatedWork\\UpdatedWork\\Hidayah\\Hidayah\\Hidayah\\Hidayah\\wwwroot\\assets\\audio\\Compound-Letters-Audios\\LaamAlif(Laa)5.wav",
+      "PackagePath": "staticwebassets\\assets\\audio\\Compound-Letters-Audios\\LaamAlif(Laa)5.wav"
+    },
+    {
+      "Id": "C:\\EhtishamAli\\UpdatedWork\\UpdatedWork\\Hidayah\\Hidayah\\Hidayah\\Hidayah\\wwwroot\\assets\\audio\\Compound-Letters-Audios\\LaamAlif(Laa)6.wav",
+      "PackagePath": "staticwebassets\\assets\\audio\\Compound-Letters-Audios\\LaamAlif(Laa)6.wav"
+    },
+    {
+      "Id": "C:\\EhtishamAli\\UpdatedWork\\UpdatedWork\\Hidayah\\Hidayah\\Hidayah\\Hidayah\\wwwroot\\assets\\audio\\Compound-Letters-Audios\\LaamHaa(Lah).wav",
+      "PackagePath": "staticwebassets\\assets\\audio\\Compound-Letters-Audios\\LaamHaa(Lah).wav"
+    },
+    {
+      "Id": "C:\\EhtishamAli\\UpdatedWork\\UpdatedWork\\Hidayah\\Hidayah\\Hidayah\\Hidayah\\wwwroot\\assets\\audio\\Compound-Letters-Audios\\Noon(N).wav",
+      "PackagePath": "staticwebassets\\assets\\audio\\Compound-Letters-Audios\\Noon(N).wav"
+    },
+    {
+      "Id": "C:\\EhtishamAli\\UpdatedWork\\UpdatedWork\\Hidayah\\Hidayah\\Hidayah\\Hidayah\\wwwroot\\assets\\audio\\Compound-Letters-Audios\\NoonAlif(Naa).wav",
+      "PackagePath": "staticwebassets\\assets\\audio\\Compound-Letters-Audios\\NoonAlif(Naa).wav"
+    },
+    {
+      "Id": "C:\\EhtishamAli\\UpdatedWork\\UpdatedWork\\Hidayah\\Hidayah\\Hidayah\\Hidayah\\wwwroot\\assets\\audio\\Compound-Letters-Audios\\NoonBaaLaam.wav",
+      "PackagePath": "staticwebassets\\assets\\audio\\Compound-Letters-Audios\\NoonBaaLaam.wav"
+    },
+    {
+      "Id": "C:\\EhtishamAli\\UpdatedWork\\UpdatedWork\\Hidayah\\Hidayah\\Hidayah\\Hidayah\\wwwroot\\assets\\audio\\Compound-Letters-Audios\\NoonBaaNoon.wav",
+      "PackagePath": "staticwebassets\\assets\\audio\\Compound-Letters-Audios\\NoonBaaNoon.wav"
+    },
+    {
+      "Id": "C:\\EhtishamAli\\UpdatedWork\\UpdatedWork\\Hidayah\\Hidayah\\Hidayah\\Hidayah\\wwwroot\\assets\\audio\\Compound-Letters-Audios\\NoonKhaa.wav",
+      "PackagePath": "staticwebassets\\assets\\audio\\Compound-Letters-Audios\\NoonKhaa.wav"
+    },
+    {
+      "Id": "C:\\EhtishamAli\\UpdatedWork\\UpdatedWork\\Hidayah\\Hidayah\\Hidayah\\Hidayah\\wwwroot\\assets\\audio\\Compound-Letters-Audios\\NoonMeem.wav",
+      "PackagePath": "staticwebassets\\assets\\audio\\Compound-Letters-Audios\\NoonMeem.wav"
+    },
+    {
+      "Id": "C:\\EhtishamAli\\UpdatedWork\\UpdatedWork\\Hidayah\\Hidayah\\Hidayah\\Hidayah\\wwwroot\\assets\\audio\\Compound-Letters-Audios\\NoonSeen.wav",
+      "PackagePath": "staticwebassets\\assets\\audio\\Compound-Letters-Audios\\NoonSeen.wav"
+    },
+    {
+      "Id": "C:\\EhtishamAli\\UpdatedWork\\UpdatedWork\\Hidayah\\Hidayah\\Hidayah\\Hidayah\\wwwroot\\assets\\audio\\Compound-Letters-Audios\\NoonYaa.wav",
+      "PackagePath": "staticwebassets\\assets\\audio\\Compound-Letters-Audios\\NoonYaa.wav"
+    },
+    {
+      "Id": "C:\\EhtishamAli\\UpdatedWork\\UpdatedWork\\Hidayah\\Hidayah\\Hidayah\\Hidayah\\wwwroot\\assets\\audio\\Compound-Letters-Audios\\Saa(Th).wav",
+      "PackagePath": "staticwebassets\\assets\\audio\\Compound-Letters-Audios\\Saa(Th).wav"
+    },
+    {
+      "Id": "C:\\EhtishamAli\\UpdatedWork\\UpdatedWork\\Hidayah\\Hidayah\\Hidayah\\Hidayah\\wwwroot\\assets\\audio\\Compound-Letters-Audios\\SaaAlif(Saa).wav",
+      "PackagePath": "staticwebassets\\assets\\audio\\Compound-Letters-Audios\\SaaAlif(Saa).wav"
+    },
+    {
+      "Id": "C:\\EhtishamAli\\UpdatedWork\\UpdatedWork\\Hidayah\\Hidayah\\Hidayah\\Hidayah\\wwwroot\\assets\\audio\\Compound-Letters-Audios\\SaaJeem.wav",
+      "PackagePath": "staticwebassets\\assets\\audio\\Compound-Letters-Audios\\SaaJeem.wav"
+    },
+    {
+      "Id": "C:\\EhtishamAli\\UpdatedWork\\UpdatedWork\\Hidayah\\Hidayah\\Hidayah\\Hidayah\\wwwroot\\assets\\audio\\Compound-Letters-Audios\\SaaMeem.wav",
+      "PackagePath": "staticwebassets\\assets\\audio\\Compound-Letters-Audios\\SaaMeem.wav"
+    },
+    {
+      "Id": "C:\\EhtishamAli\\UpdatedWork\\UpdatedWork\\Hidayah\\Hidayah\\Hidayah\\Hidayah\\wwwroot\\assets\\audio\\Compound-Letters-Audios\\SaaSaaLaam.wav",
+      "PackagePath": "staticwebassets\\assets\\audio\\Compound-Letters-Audios\\SaaSaaLaam.wav"
+    },
+    {
+      "Id": "C:\\EhtishamAli\\UpdatedWork\\UpdatedWork\\Hidayah\\Hidayah\\Hidayah\\Hidayah\\wwwroot\\assets\\audio\\Compound-Letters-Audios\\SaaSeen.wav",
+      "PackagePath": "staticwebassets\\assets\\audio\\Compound-Letters-Audios\\SaaSeen.wav"
+    },
+    {
+      "Id": "C:\\EhtishamAli\\UpdatedWork\\UpdatedWork\\Hidayah\\Hidayah\\Hidayah\\Hidayah\\wwwroot\\assets\\audio\\Compound-Letters-Audios\\SaaYaa.wav",
+      "PackagePath": "staticwebassets\\assets\\audio\\Compound-Letters-Audios\\SaaYaa.wav"
+    },
+    {
+      "Id": "C:\\EhtishamAli\\UpdatedWork\\UpdatedWork\\Hidayah\\Hidayah\\Hidayah\\Hidayah\\wwwroot\\assets\\audio\\Compound-Letters-Audios\\Taa(T).wav",
+      "PackagePath": "staticwebassets\\assets\\audio\\Compound-Letters-Audios\\Taa(T).wav"
+    },
+    {
+      "Id": "C:\\EhtishamAli\\UpdatedWork\\UpdatedWork\\Hidayah\\Hidayah\\Hidayah\\Hidayah\\wwwroot\\assets\\audio\\Compound-Letters-Audios\\TaaAlif(Taa).wav",
+      "PackagePath": "staticwebassets\\assets\\audio\\Compound-Letters-Audios\\TaaAlif(Taa).wav"
+    },
+    {
+      "Id": "C:\\EhtishamAli\\UpdatedWork\\UpdatedWork\\Hidayah\\Hidayah\\Hidayah\\Hidayah\\wwwroot\\assets\\audio\\Compound-Letters-Audios\\TaaHaa.wav",
+      "PackagePath": "staticwebassets\\assets\\audio\\Compound-Letters-Audios\\TaaHaa.wav"
+    },
+    {
+      "Id": "C:\\EhtishamAli\\UpdatedWork\\UpdatedWork\\Hidayah\\Hidayah\\Hidayah\\Hidayah\\wwwroot\\assets\\audio\\Compound-Letters-Audios\\TaaKaafSaa.wav",
+      "PackagePath": "staticwebassets\\assets\\audio\\Compound-Letters-Audios\\TaaKaafSaa.wav"
+    },
+    {
+      "Id": "C:\\EhtishamAli\\UpdatedWork\\UpdatedWork\\Hidayah\\Hidayah\\Hidayah\\Hidayah\\wwwroot\\assets\\audio\\Compound-Letters-Audios\\TaaKaafSaa11.wav",
+      "PackagePath": "staticwebassets\\assets\\audio\\Compound-Letters-Audios\\TaaKaafSaa11.wav"
+    },
+    {
+      "Id": "C:\\EhtishamAli\\UpdatedWork\\UpdatedWork\\Hidayah\\Hidayah\\Hidayah\\Hidayah\\wwwroot\\assets\\audio\\Compound-Letters-Audios\\TaaMeem.wav",
+      "PackagePath": "staticwebassets\\assets\\audio\\Compound-Letters-Audios\\TaaMeem.wav"
+    },
+    {
+      "Id": "C:\\EhtishamAli\\UpdatedWork\\UpdatedWork\\Hidayah\\Hidayah\\Hidayah\\Hidayah\\wwwroot\\assets\\audio\\Compound-Letters-Audios\\TaaNoonLaam.wav",
+      "PackagePath": "staticwebassets\\assets\\audio\\Compound-Letters-Audios\\TaaNoonLaam.wav"
+    },
+    {
+      "Id": "C:\\EhtishamAli\\UpdatedWork\\UpdatedWork\\Hidayah\\Hidayah\\Hidayah\\Hidayah\\wwwroot\\assets\\audio\\Compound-Letters-Audios\\TaaSeen.wav",
+      "PackagePath": "staticwebassets\\assets\\audio\\Compound-Letters-Audios\\TaaSeen.wav"
+    },
+    {
+      "Id": "C:\\EhtishamAli\\UpdatedWork\\UpdatedWork\\Hidayah\\Hidayah\\Hidayah\\Hidayah\\wwwroot\\assets\\audio\\Compound-Letters-Audios\\TaaYaa.wav",
+      "PackagePath": "staticwebassets\\assets\\audio\\Compound-Letters-Audios\\TaaYaa.wav"
+    },
+    {
+      "Id": "C:\\EhtishamAli\\UpdatedWork\\UpdatedWork\\Hidayah\\Hidayah\\Hidayah\\Hidayah\\wwwroot\\assets\\audio\\Compound-Letters-Audios\\Yaa(Y).wav",
+      "PackagePath": "staticwebassets\\assets\\audio\\Compound-Letters-Audios\\Yaa(Y).wav"
+    },
+    {
+      "Id": "C:\\EhtishamAli\\UpdatedWork\\UpdatedWork\\Hidayah\\Hidayah\\Hidayah\\Hidayah\\wwwroot\\assets\\audio\\Compound-Letters-Audios\\YaaAlif(Yaa).wav",
+      "PackagePath": "staticwebassets\\assets\\audio\\Compound-Letters-Audios\\YaaAlif(Yaa).wav"
+    },
+    {
+      "Id": "C:\\EhtishamAli\\UpdatedWork\\UpdatedWork\\Hidayah\\Hidayah\\Hidayah\\Hidayah\\wwwroot\\assets\\audio\\Compound-Letters-Audios\\YaaHaa.wav",
+      "PackagePath": "staticwebassets\\assets\\audio\\Compound-Letters-Audios\\YaaHaa.wav"
+    },
+    {
+      "Id": "C:\\EhtishamAli\\UpdatedWork\\UpdatedWork\\Hidayah\\Hidayah\\Hidayah\\Hidayah\\wwwroot\\assets\\audio\\Compound-Letters-Audios\\YaaMeem.wav",
+      "PackagePath": "staticwebassets\\assets\\audio\\Compound-Letters-Audios\\YaaMeem.wav"
+    },
+    {
+      "Id": "C:\\EhtishamAli\\UpdatedWork\\UpdatedWork\\Hidayah\\Hidayah\\Hidayah\\Hidayah\\wwwroot\\assets\\audio\\Compound-Letters-Audios\\YaaSeen.wav",
+      "PackagePath": "staticwebassets\\assets\\audio\\Compound-Letters-Audios\\YaaSeen.wav"
+    },
+    {
+      "Id": "C:\\EhtishamAli\\UpdatedWork\\UpdatedWork\\Hidayah\\Hidayah\\Hidayah\\Hidayah\\wwwroot\\assets\\audio\\Compound-Letters-Audios\\YaaTaaLaam.wav",
+      "PackagePath": "staticwebassets\\assets\\audio\\Compound-Letters-Audios\\YaaTaaLaam.wav"
+    },
+    {
+      "Id": "C:\\EhtishamAli\\UpdatedWork\\UpdatedWork\\Hidayah\\Hidayah\\Hidayah\\Hidayah\\wwwroot\\assets\\audio\\Compound-Letters-Audios\\YaaYaa.wav",
+      "PackagePath": "staticwebassets\\assets\\audio\\Compound-Letters-Audios\\YaaYaa.wav"
+    },
+    {
+      "Id": "C:\\EhtishamAli\\UpdatedWork\\UpdatedWork\\Hidayah\\Hidayah\\Hidayah\\Hidayah\\wwwroot\\assets\\audio\\Daad(Ḍ–heavyD).mp3",
+      "PackagePath": "staticwebassets\\assets\\audio\\Daad(Ḍ–heavyD).mp3"
+    },
+    {
+      "Id": "C:\\EhtishamAli\\UpdatedWork\\UpdatedWork\\Hidayah\\Hidayah\\Hidayah\\Hidayah\\wwwroot\\assets\\audio\\Daal(D).mp3",
+      "PackagePath": "staticwebassets\\assets\\audio\\Daal(D).mp3"
+    },
+    {
+      "Id": "C:\\EhtishamAli\\UpdatedWork\\UpdatedWork\\Hidayah\\Hidayah\\Hidayah\\Hidayah\\wwwroot\\assets\\audio\\Dhaal(Dh).mp3",
+      "PackagePath": "staticwebassets\\assets\\audio\\Dhaal(Dh).mp3"
+    },
+    {
+      "Id": "C:\\EhtishamAli\\UpdatedWork\\UpdatedWork\\Hidayah\\Hidayah\\Hidayah\\Hidayah\\wwwroot\\assets\\audio\\Faa(F).mp3",
+      "PackagePath": "staticwebassets\\assets\\audio\\Faa(F).mp3"
+    },
+    {
+      "Id": "C:\\EhtishamAli\\UpdatedWork\\UpdatedWork\\Hidayah\\Hidayah\\Hidayah\\Hidayah\\wwwroot\\assets\\audio\\Ghain(Gh–deepG).mp3",
+      "PackagePath": "staticwebassets\\assets\\audio\\Ghain(Gh–deepG).mp3"
+    },
+    {
+      "Id": "C:\\EhtishamAli\\UpdatedWork\\UpdatedWork\\Hidayah\\Hidayah\\Hidayah\\Hidayah\\wwwroot\\assets\\audio\\Haa(H).mp3",
+      "PackagePath": "staticwebassets\\assets\\audio\\Haa(H).mp3"
+    },
+    {
+      "Id": "C:\\EhtishamAli\\UpdatedWork\\UpdatedWork\\Hidayah\\Hidayah\\Hidayah\\Hidayah\\wwwroot\\assets\\audio\\Haa(Ḥ–deepH).mp3",
+      "PackagePath": "staticwebassets\\assets\\audio\\Haa(Ḥ–deepH).mp3"
+    },
+    {
+      "Id": "C:\\EhtishamAli\\UpdatedWork\\UpdatedWork\\Hidayah\\Hidayah\\Hidayah\\Hidayah\\wwwroot\\assets\\audio\\Hamza(Glottalstop).mp3",
+      "PackagePath": "staticwebassets\\assets\\audio\\Hamza(Glottalstop).mp3"
+    },
+    {
+      "Id": "C:\\EhtishamAli\\UpdatedWork\\UpdatedWork\\Hidayah\\Hidayah\\Hidayah\\Hidayah\\wwwroot\\assets\\audio\\Jeem(J).mp3",
+      "PackagePath": "staticwebassets\\assets\\audio\\Jeem(J).mp3"
+    },
+    {
+      "Id": "C:\\EhtishamAli\\UpdatedWork\\UpdatedWork\\Hidayah\\Hidayah\\Hidayah\\Hidayah\\wwwroot\\assets\\audio\\Kaaf(K).mp3",
+      "PackagePath": "staticwebassets\\assets\\audio\\Kaaf(K).mp3"
+    },
+    {
+      "Id": "C:\\EhtishamAli\\UpdatedWork\\UpdatedWork\\Hidayah\\Hidayah\\Hidayah\\Hidayah\\wwwroot\\assets\\audio\\Khaa(Kh).mp3",
+      "PackagePath": "staticwebassets\\assets\\audio\\Khaa(Kh).mp3"
+    },
+    {
+      "Id": "C:\\EhtishamAli\\UpdatedWork\\UpdatedWork\\Hidayah\\Hidayah\\Hidayah\\Hidayah\\wwwroot\\assets\\audio\\Laam(L).mp3",
+      "PackagePath": "staticwebassets\\assets\\audio\\Laam(L).mp3"
+    },
+    {
+      "Id": "C:\\EhtishamAli\\UpdatedWork\\UpdatedWork\\Hidayah\\Hidayah\\Hidayah\\Hidayah\\wwwroot\\assets\\audio\\Meem(M).mp3",
+      "PackagePath": "staticwebassets\\assets\\audio\\Meem(M).mp3"
+    },
+    {
+      "Id": "C:\\EhtishamAli\\UpdatedWork\\UpdatedWork\\Hidayah\\Hidayah\\Hidayah\\Hidayah\\wwwroot\\assets\\audio\\Noon(N).mp3",
+      "PackagePath": "staticwebassets\\assets\\audio\\Noon(N).mp3"
+    },
+    {
+      "Id": "C:\\EhtishamAli\\UpdatedWork\\UpdatedWork\\Hidayah\\Hidayah\\Hidayah\\Hidayah\\wwwroot\\assets\\audio\\Qaaf(Q–deepQ).mp3",
+      "PackagePath": "staticwebassets\\assets\\audio\\Qaaf(Q–deepQ).mp3"
+    },
+    {
+      "Id": "C:\\EhtishamAli\\UpdatedWork\\UpdatedWork\\Hidayah\\Hidayah\\Hidayah\\Hidayah\\wwwroot\\assets\\audio\\Raa(R).mp3",
+      "PackagePath": "staticwebassets\\assets\\audio\\Raa(R).mp3"
+    },
+    {
+      "Id": "C:\\EhtishamAli\\UpdatedWork\\UpdatedWork\\Hidayah\\Hidayah\\Hidayah\\Hidayah\\wwwroot\\assets\\audio\\Saa(Th).mp3",
+      "PackagePath": "staticwebassets\\assets\\audio\\Saa(Th).mp3"
+    },
+    {
+      "Id": "C:\\EhtishamAli\\UpdatedWork\\UpdatedWork\\Hidayah\\Hidayah\\Hidayah\\Hidayah\\wwwroot\\assets\\audio\\Saad(Ṣ–heavyS).mp3",
+      "PackagePath": "staticwebassets\\assets\\audio\\Saad(Ṣ–heavyS).mp3"
+    },
+    {
+      "Id": "C:\\EhtishamAli\\UpdatedWork\\UpdatedWork\\Hidayah\\Hidayah\\Hidayah\\Hidayah\\wwwroot\\assets\\audio\\Seen(S).mp3",
+      "PackagePath": "staticwebassets\\assets\\audio\\Seen(S).mp3"
+    },
+    {
+      "Id": "C:\\EhtishamAli\\UpdatedWork\\UpdatedWork\\Hidayah\\Hidayah\\Hidayah\\Hidayah\\wwwroot\\assets\\audio\\Sheen(Sh).mp3",
+      "PackagePath": "staticwebassets\\assets\\audio\\Sheen(Sh).mp3"
+    },
+    {
+      "Id": "C:\\EhtishamAli\\UpdatedWork\\UpdatedWork\\Hidayah\\Hidayah\\Hidayah\\Hidayah\\wwwroot\\assets\\audio\\Taa(T).mp3",
+      "PackagePath": "staticwebassets\\assets\\audio\\Taa(T).mp3"
+    },
+    {
+      "Id": "C:\\EhtishamAli\\UpdatedWork\\UpdatedWork\\Hidayah\\Hidayah\\Hidayah\\Hidayah\\wwwroot\\assets\\audio\\Taa(Ṭ–heavyT).mp3",
+      "PackagePath": "staticwebassets\\assets\\audio\\Taa(Ṭ–heavyT).mp3"
+    },
+    {
+      "Id": "C:\\EhtishamAli\\UpdatedWork\\UpdatedWork\\Hidayah\\Hidayah\\Hidayah\\Hidayah\\wwwroot\\assets\\audio\\Waw(W).mp3",
+      "PackagePath": "staticwebassets\\assets\\audio\\Waw(W).mp3"
+    },
+    {
+      "Id": "C:\\EhtishamAli\\UpdatedWork\\UpdatedWork\\Hidayah\\Hidayah\\Hidayah\\Hidayah\\wwwroot\\assets\\audio\\Yaa(Y).mp3",
+      "PackagePath": "staticwebassets\\assets\\audio\\Yaa(Y).mp3"
+    },
+    {
+      "Id": "C:\\EhtishamAli\\UpdatedWork\\UpdatedWork\\Hidayah\\Hidayah\\Hidayah\\Hidayah\\wwwroot\\assets\\audio\\Zaa(Ẓ–heavyZ).mp3",
+      "PackagePath": "staticwebassets\\assets\\audio\\Zaa(Ẓ–heavyZ).mp3"
+    },
+    {
+      "Id": "C:\\EhtishamAli\\UpdatedWork\\UpdatedWork\\Hidayah\\Hidayah\\Hidayah\\Hidayah\\wwwroot\\assets\\audio\\Zay(Z).mp3",
+      "PackagePath": "staticwebassets\\assets\\audio\\Zay(Z).mp3"
+    },
+    {
+      "Id": "C:\\EhtishamAli\\UpdatedWork\\UpdatedWork\\Hidayah\\Hidayah\\Hidayah\\Hidayah\\wwwroot\\assets\\icons\\Ain(ʿA–deepthroatsound).svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\Ain(ʿA–deepthroatsound).svg"
+    },
+    {
+      "Id": "C:\\EhtishamAli\\UpdatedWork\\UpdatedWork\\Hidayah\\Hidayah\\Hidayah\\Hidayah\\wwwroot\\assets\\icons\\Alif(A).svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\Alif(A).svg"
+    },
+    {
+      "Id": "C:\\EhtishamAli\\UpdatedWork\\UpdatedWork\\Hidayah\\Hidayah\\Hidayah\\Hidayah\\wwwroot\\assets\\icons\\Baa(B).svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\Baa(B).svg"
+    },
+    {
+      "Id": "C:\\EhtishamAli\\UpdatedWork\\UpdatedWork\\Hidayah\\Hidayah\\Hidayah\\Hidayah\\wwwroot\\assets\\icons\\Compound-Letters-Icons\\Alif(A).svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\Compound-Letters-Icons\\Alif(A).svg"
+    },
+    {
+      "Id": "C:\\EhtishamAli\\UpdatedWork\\UpdatedWork\\Hidayah\\Hidayah\\Hidayah\\Hidayah\\wwwroot\\assets\\icons\\Compound-Letters-Icons\\Baa(B).svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\Compound-Letters-Icons\\Baa(B).svg"
+    },
+    {
+      "Id": "C:\\EhtishamAli\\UpdatedWork\\UpdatedWork\\Hidayah\\Hidayah\\Hidayah\\Hidayah\\wwwroot\\assets\\icons\\Compound-Letters-Icons\\BaaAlif(Baa).svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\Compound-Letters-Icons\\BaaAlif(Baa).svg"
+    },
+    {
+      "Id": "C:\\EhtishamAli\\UpdatedWork\\UpdatedWork\\Hidayah\\Hidayah\\Hidayah\\Hidayah\\wwwroot\\assets\\icons\\Compound-Letters-Icons\\BaaAlif(Baa)1.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\Compound-Letters-Icons\\BaaAlif(Baa)1.svg"
+    },
+    {
+      "Id": "C:\\EhtishamAli\\UpdatedWork\\UpdatedWork\\Hidayah\\Hidayah\\Hidayah\\Hidayah\\wwwroot\\assets\\icons\\Compound-Letters-Icons\\BaaAlif.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\Compound-Letters-Icons\\BaaAlif.svg"
+    },
+    {
+      "Id": "C:\\EhtishamAli\\UpdatedWork\\UpdatedWork\\Hidayah\\Hidayah\\Hidayah\\Hidayah\\wwwroot\\assets\\icons\\Compound-Letters-Icons\\BaaJeem.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\Compound-Letters-Icons\\BaaJeem.svg"
+    },
+    {
+      "Id": "C:\\EhtishamAli\\UpdatedWork\\UpdatedWork\\Hidayah\\Hidayah\\Hidayah\\Hidayah\\wwwroot\\assets\\icons\\Compound-Letters-Icons\\BaaKaafTaa.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\Compound-Letters-Icons\\BaaKaafTaa.svg"
+    },
+    {
+      "Id": "C:\\EhtishamAli\\UpdatedWork\\UpdatedWork\\Hidayah\\Hidayah\\Hidayah\\Hidayah\\wwwroot\\assets\\icons\\Compound-Letters-Icons\\BaaLaamBaa.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\Compound-Letters-Icons\\BaaLaamBaa.svg"
+    },
+    {
+      "Id": "C:\\EhtishamAli\\UpdatedWork\\UpdatedWork\\Hidayah\\Hidayah\\Hidayah\\Hidayah\\wwwroot\\assets\\icons\\Compound-Letters-Icons\\BaaMeem.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\Compound-Letters-Icons\\BaaMeem.svg"
+    },
+    {
+      "Id": "C:\\EhtishamAli\\UpdatedWork\\UpdatedWork\\Hidayah\\Hidayah\\Hidayah\\Hidayah\\wwwroot\\assets\\icons\\Compound-Letters-Icons\\BaaSeen.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\Compound-Letters-Icons\\BaaSeen.svg"
+    },
+    {
+      "Id": "C:\\EhtishamAli\\UpdatedWork\\UpdatedWork\\Hidayah\\Hidayah\\Hidayah\\Hidayah\\wwwroot\\assets\\icons\\Compound-Letters-Icons\\BaaYaa.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\Compound-Letters-Icons\\BaaYaa.svg"
+    },
+    {
+      "Id": "C:\\EhtishamAli\\UpdatedWork\\UpdatedWork\\Hidayah\\Hidayah\\Hidayah\\Hidayah\\wwwroot\\assets\\icons\\Compound-Letters-Icons\\BaaYaaLaam.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\Compound-Letters-Icons\\BaaYaaLaam.svg"
+    },
+    {
+      "Id": "C:\\EhtishamAli\\UpdatedWork\\UpdatedWork\\Hidayah\\Hidayah\\Hidayah\\Hidayah\\wwwroot\\assets\\icons\\Compound-Letters-Icons\\Kaaf(K).svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\Compound-Letters-Icons\\Kaaf(K).svg"
+    },
+    {
+      "Id": "C:\\EhtishamAli\\UpdatedWork\\UpdatedWork\\Hidayah\\Hidayah\\Hidayah\\Hidayah\\wwwroot\\assets\\icons\\Compound-Letters-Icons\\Kaaf(K)1.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\Compound-Letters-Icons\\Kaaf(K)1.svg"
+    },
+    {
+      "Id": "C:\\EhtishamAli\\UpdatedWork\\UpdatedWork\\Hidayah\\Hidayah\\Hidayah\\Hidayah\\wwwroot\\assets\\icons\\Compound-Letters-Icons\\KaafAlif.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\Compound-Letters-Icons\\KaafAlif.svg"
+    },
+    {
+      "Id": "C:\\EhtishamAli\\UpdatedWork\\UpdatedWork\\Hidayah\\Hidayah\\Hidayah\\Hidayah\\wwwroot\\assets\\icons\\Compound-Letters-Icons\\KaafAlif1.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\Compound-Letters-Icons\\KaafAlif1.svg"
+    },
+    {
+      "Id": "C:\\EhtishamAli\\UpdatedWork\\UpdatedWork\\Hidayah\\Hidayah\\Hidayah\\Hidayah\\wwwroot\\assets\\icons\\Compound-Letters-Icons\\KaafBaa.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\Compound-Letters-Icons\\KaafBaa.svg"
+    },
+    {
+      "Id": "C:\\EhtishamAli\\UpdatedWork\\UpdatedWork\\Hidayah\\Hidayah\\Hidayah\\Hidayah\\wwwroot\\assets\\icons\\Compound-Letters-Icons\\KaafBaa1.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\Compound-Letters-Icons\\KaafBaa1.svg"
+    },
+    {
+      "Id": "C:\\EhtishamAli\\UpdatedWork\\UpdatedWork\\Hidayah\\Hidayah\\Hidayah\\Hidayah\\wwwroot\\assets\\icons\\Compound-Letters-Icons\\Laam.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\Compound-Letters-Icons\\Laam.svg"
+    },
+    {
+      "Id": "C:\\EhtishamAli\\UpdatedWork\\UpdatedWork\\Hidayah\\Hidayah\\Hidayah\\Hidayah\\wwwroot\\assets\\icons\\Compound-Letters-Icons\\LaamAlif(Laa).svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\Compound-Letters-Icons\\LaamAlif(Laa).svg"
+    },
+    {
+      "Id": "C:\\EhtishamAli\\UpdatedWork\\UpdatedWork\\Hidayah\\Hidayah\\Hidayah\\Hidayah\\wwwroot\\assets\\icons\\Compound-Letters-Icons\\LaamAlif(Laa)1.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\Compound-Letters-Icons\\LaamAlif(Laa)1.svg"
+    },
+    {
+      "Id": "C:\\EhtishamAli\\UpdatedWork\\UpdatedWork\\Hidayah\\Hidayah\\Hidayah\\Hidayah\\wwwroot\\assets\\icons\\Compound-Letters-Icons\\LaamAlif(Laa)4.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\Compound-Letters-Icons\\LaamAlif(Laa)4.svg"
+    },
+    {
+      "Id": "C:\\EhtishamAli\\UpdatedWork\\UpdatedWork\\Hidayah\\Hidayah\\Hidayah\\Hidayah\\wwwroot\\assets\\icons\\Compound-Letters-Icons\\LaamAlif(Laa)5.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\Compound-Letters-Icons\\LaamAlif(Laa)5.svg"
+    },
+    {
+      "Id": "C:\\EhtishamAli\\UpdatedWork\\UpdatedWork\\Hidayah\\Hidayah\\Hidayah\\Hidayah\\wwwroot\\assets\\icons\\Compound-Letters-Icons\\LaamAlif(Laa)6.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\Compound-Letters-Icons\\LaamAlif(Laa)6.svg"
+    },
+    {
+      "Id": "C:\\EhtishamAli\\UpdatedWork\\UpdatedWork\\Hidayah\\Hidayah\\Hidayah\\Hidayah\\wwwroot\\assets\\icons\\Compound-Letters-Icons\\LaamHaa(Lah).svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\Compound-Letters-Icons\\LaamHaa(Lah).svg"
+    },
+    {
+      "Id": "C:\\EhtishamAli\\UpdatedWork\\UpdatedWork\\Hidayah\\Hidayah\\Hidayah\\Hidayah\\wwwroot\\assets\\icons\\Compound-Letters-Icons\\Noon(N).svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\Compound-Letters-Icons\\Noon(N).svg"
+    },
+    {
+      "Id": "C:\\EhtishamAli\\UpdatedWork\\UpdatedWork\\Hidayah\\Hidayah\\Hidayah\\Hidayah\\wwwroot\\assets\\icons\\Compound-Letters-Icons\\NoonAlif(Naa).svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\Compound-Letters-Icons\\NoonAlif(Naa).svg"
+    },
+    {
+      "Id": "C:\\EhtishamAli\\UpdatedWork\\UpdatedWork\\Hidayah\\Hidayah\\Hidayah\\Hidayah\\wwwroot\\assets\\icons\\Compound-Letters-Icons\\NoonBaaLaam.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\Compound-Letters-Icons\\NoonBaaLaam.svg"
+    },
+    {
+      "Id": "C:\\EhtishamAli\\UpdatedWork\\UpdatedWork\\Hidayah\\Hidayah\\Hidayah\\Hidayah\\wwwroot\\assets\\icons\\Compound-Letters-Icons\\NoonBaaNoon.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\Compound-Letters-Icons\\NoonBaaNoon.svg"
+    },
+    {
+      "Id": "C:\\EhtishamAli\\UpdatedWork\\UpdatedWork\\Hidayah\\Hidayah\\Hidayah\\Hidayah\\wwwroot\\assets\\icons\\Compound-Letters-Icons\\NoonKhaa.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\Compound-Letters-Icons\\NoonKhaa.svg"
+    },
+    {
+      "Id": "C:\\EhtishamAli\\UpdatedWork\\UpdatedWork\\Hidayah\\Hidayah\\Hidayah\\Hidayah\\wwwroot\\assets\\icons\\Compound-Letters-Icons\\NoonMeem.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\Compound-Letters-Icons\\NoonMeem.svg"
+    },
+    {
+      "Id": "C:\\EhtishamAli\\UpdatedWork\\UpdatedWork\\Hidayah\\Hidayah\\Hidayah\\Hidayah\\wwwroot\\assets\\icons\\Compound-Letters-Icons\\NoonSeen.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\Compound-Letters-Icons\\NoonSeen.svg"
+    },
+    {
+      "Id": "C:\\EhtishamAli\\UpdatedWork\\UpdatedWork\\Hidayah\\Hidayah\\Hidayah\\Hidayah\\wwwroot\\assets\\icons\\Compound-Letters-Icons\\NoonYaa.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\Compound-Letters-Icons\\NoonYaa.svg"
+    },
+    {
+      "Id": "C:\\EhtishamAli\\UpdatedWork\\UpdatedWork\\Hidayah\\Hidayah\\Hidayah\\Hidayah\\wwwroot\\assets\\icons\\Compound-Letters-Icons\\Saa(Th).svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\Compound-Letters-Icons\\Saa(Th).svg"
+    },
+    {
+      "Id": "C:\\EhtishamAli\\UpdatedWork\\UpdatedWork\\Hidayah\\Hidayah\\Hidayah\\Hidayah\\wwwroot\\assets\\icons\\Compound-Letters-Icons\\SaaAlif(Saa).svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\Compound-Letters-Icons\\SaaAlif(Saa).svg"
+    },
+    {
+      "Id": "C:\\EhtishamAli\\UpdatedWork\\UpdatedWork\\Hidayah\\Hidayah\\Hidayah\\Hidayah\\wwwroot\\assets\\icons\\Compound-Letters-Icons\\SaaJeem.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\Compound-Letters-Icons\\SaaJeem.svg"
+    },
+    {
+      "Id": "C:\\EhtishamAli\\UpdatedWork\\UpdatedWork\\Hidayah\\Hidayah\\Hidayah\\Hidayah\\wwwroot\\assets\\icons\\Compound-Letters-Icons\\SaaMeem.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\Compound-Letters-Icons\\SaaMeem.svg"
+    },
+    {
+      "Id": "C:\\EhtishamAli\\UpdatedWork\\UpdatedWork\\Hidayah\\Hidayah\\Hidayah\\Hidayah\\wwwroot\\assets\\icons\\Compound-Letters-Icons\\SaaSaaLaam.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\Compound-Letters-Icons\\SaaSaaLaam.svg"
+    },
+    {
+      "Id": "C:\\EhtishamAli\\UpdatedWork\\UpdatedWork\\Hidayah\\Hidayah\\Hidayah\\Hidayah\\wwwroot\\assets\\icons\\Compound-Letters-Icons\\SaaSeen.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\Compound-Letters-Icons\\SaaSeen.svg"
+    },
+    {
+      "Id": "C:\\EhtishamAli\\UpdatedWork\\UpdatedWork\\Hidayah\\Hidayah\\Hidayah\\Hidayah\\wwwroot\\assets\\icons\\Compound-Letters-Icons\\SaaYaa.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\Compound-Letters-Icons\\SaaYaa.svg"
+    },
+    {
+      "Id": "C:\\EhtishamAli\\UpdatedWork\\UpdatedWork\\Hidayah\\Hidayah\\Hidayah\\Hidayah\\wwwroot\\assets\\icons\\Compound-Letters-Icons\\Taa(T).svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\Compound-Letters-Icons\\Taa(T).svg"
+    },
+    {
+      "Id": "C:\\EhtishamAli\\UpdatedWork\\UpdatedWork\\Hidayah\\Hidayah\\Hidayah\\Hidayah\\wwwroot\\assets\\icons\\Compound-Letters-Icons\\TaaAlif(Taa).svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\Compound-Letters-Icons\\TaaAlif(Taa).svg"
+    },
+    {
+      "Id": "C:\\EhtishamAli\\UpdatedWork\\UpdatedWork\\Hidayah\\Hidayah\\Hidayah\\Hidayah\\wwwroot\\assets\\icons\\Compound-Letters-Icons\\TaaHaa.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\Compound-Letters-Icons\\TaaHaa.svg"
+    },
+    {
+      "Id": "C:\\EhtishamAli\\UpdatedWork\\UpdatedWork\\Hidayah\\Hidayah\\Hidayah\\Hidayah\\wwwroot\\assets\\icons\\Compound-Letters-Icons\\TaaKaafSaa.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\Compound-Letters-Icons\\TaaKaafSaa.svg"
+    },
+    {
+      "Id": "C:\\EhtishamAli\\UpdatedWork\\UpdatedWork\\Hidayah\\Hidayah\\Hidayah\\Hidayah\\wwwroot\\assets\\icons\\Compound-Letters-Icons\\TaaKaafSaa11.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\Compound-Letters-Icons\\TaaKaafSaa11.svg"
+    },
+    {
+      "Id": "C:\\EhtishamAli\\UpdatedWork\\UpdatedWork\\Hidayah\\Hidayah\\Hidayah\\Hidayah\\wwwroot\\assets\\icons\\Compound-Letters-Icons\\TaaMeem.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\Compound-Letters-Icons\\TaaMeem.svg"
+    },
+    {
+      "Id": "C:\\EhtishamAli\\UpdatedWork\\UpdatedWork\\Hidayah\\Hidayah\\Hidayah\\Hidayah\\wwwroot\\assets\\icons\\Compound-Letters-Icons\\TaaNoonLaam.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\Compound-Letters-Icons\\TaaNoonLaam.svg"
+    },
+    {
+      "Id": "C:\\EhtishamAli\\UpdatedWork\\UpdatedWork\\Hidayah\\Hidayah\\Hidayah\\Hidayah\\wwwroot\\assets\\icons\\Compound-Letters-Icons\\TaaSeen.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\Compound-Letters-Icons\\TaaSeen.svg"
+    },
+    {
+      "Id": "C:\\EhtishamAli\\UpdatedWork\\UpdatedWork\\Hidayah\\Hidayah\\Hidayah\\Hidayah\\wwwroot\\assets\\icons\\Compound-Letters-Icons\\TaaYaa.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\Compound-Letters-Icons\\TaaYaa.svg"
+    },
+    {
+      "Id": "C:\\EhtishamAli\\UpdatedWork\\UpdatedWork\\Hidayah\\Hidayah\\Hidayah\\Hidayah\\wwwroot\\assets\\icons\\Compound-Letters-Icons\\Yaa(Y).svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\Compound-Letters-Icons\\Yaa(Y).svg"
+    },
+    {
+      "Id": "C:\\EhtishamAli\\UpdatedWork\\UpdatedWork\\Hidayah\\Hidayah\\Hidayah\\Hidayah\\wwwroot\\assets\\icons\\Compound-Letters-Icons\\YaaAlif(Yaa).svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\Compound-Letters-Icons\\YaaAlif(Yaa).svg"
+    },
+    {
+      "Id": "C:\\EhtishamAli\\UpdatedWork\\UpdatedWork\\Hidayah\\Hidayah\\Hidayah\\Hidayah\\wwwroot\\assets\\icons\\Compound-Letters-Icons\\YaaHaa.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\Compound-Letters-Icons\\YaaHaa.svg"
+    },
+    {
+      "Id": "C:\\EhtishamAli\\UpdatedWork\\UpdatedWork\\Hidayah\\Hidayah\\Hidayah\\Hidayah\\wwwroot\\assets\\icons\\Compound-Letters-Icons\\YaaMeem.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\Compound-Letters-Icons\\YaaMeem.svg"
+    },
+    {
+      "Id": "C:\\EhtishamAli\\UpdatedWork\\UpdatedWork\\Hidayah\\Hidayah\\Hidayah\\Hidayah\\wwwroot\\assets\\icons\\Compound-Letters-Icons\\YaaSeen.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\Compound-Letters-Icons\\YaaSeen.svg"
+    },
+    {
+      "Id": "C:\\EhtishamAli\\UpdatedWork\\UpdatedWork\\Hidayah\\Hidayah\\Hidayah\\Hidayah\\wwwroot\\assets\\icons\\Compound-Letters-Icons\\YaaTaaLaam.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\Compound-Letters-Icons\\YaaTaaLaam.svg"
+    },
+    {
+      "Id": "C:\\EhtishamAli\\UpdatedWork\\UpdatedWork\\Hidayah\\Hidayah\\Hidayah\\Hidayah\\wwwroot\\assets\\icons\\Compound-Letters-Icons\\YaaYaa.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\Compound-Letters-Icons\\YaaYaa.svg"
+    },
+    {
+      "Id": "C:\\EhtishamAli\\UpdatedWork\\UpdatedWork\\Hidayah\\Hidayah\\Hidayah\\Hidayah\\wwwroot\\assets\\icons\\Daad(Ḍ–heavyD).svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\Daad(Ḍ–heavyD).svg"
+    },
+    {
+      "Id": "C:\\EhtishamAli\\UpdatedWork\\UpdatedWork\\Hidayah\\Hidayah\\Hidayah\\Hidayah\\wwwroot\\assets\\icons\\Daal(D).svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\Daal(D).svg"
+    },
+    {
+      "Id": "C:\\EhtishamAli\\UpdatedWork\\UpdatedWork\\Hidayah\\Hidayah\\Hidayah\\Hidayah\\wwwroot\\assets\\icons\\Dhaal(Dh).svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\Dhaal(Dh).svg"
+    },
+    {
+      "Id": "C:\\EhtishamAli\\UpdatedWork\\UpdatedWork\\Hidayah\\Hidayah\\Hidayah\\Hidayah\\wwwroot\\assets\\icons\\Faa(F).svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\Faa(F).svg"
+    },
+    {
+      "Id": "C:\\EhtishamAli\\UpdatedWork\\UpdatedWork\\Hidayah\\Hidayah\\Hidayah\\Hidayah\\wwwroot\\assets\\icons\\Ghain(Gh–deepG).svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\Ghain(Gh–deepG).svg"
+    },
+    {
+      "Id": "C:\\EhtishamAli\\UpdatedWork\\UpdatedWork\\Hidayah\\Hidayah\\Hidayah\\Hidayah\\wwwroot\\assets\\icons\\Haa(H).svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\Haa(H).svg"
+    },
+    {
+      "Id": "C:\\EhtishamAli\\UpdatedWork\\UpdatedWork\\Hidayah\\Hidayah\\Hidayah\\Hidayah\\wwwroot\\assets\\icons\\Haa(Ḥ–deepH).svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\Haa(Ḥ–deepH).svg"
+    },
+    {
+      "Id": "C:\\EhtishamAli\\UpdatedWork\\UpdatedWork\\Hidayah\\Hidayah\\Hidayah\\Hidayah\\wwwroot\\assets\\icons\\Hamza(Glottalstop).svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\Hamza(Glottalstop).svg"
+    },
+    {
+      "Id": "C:\\EhtishamAli\\UpdatedWork\\UpdatedWork\\Hidayah\\Hidayah\\Hidayah\\Hidayah\\wwwroot\\assets\\icons\\Jeem(J).svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\Jeem(J).svg"
+    },
+    {
+      "Id": "C:\\EhtishamAli\\UpdatedWork\\UpdatedWork\\Hidayah\\Hidayah\\Hidayah\\Hidayah\\wwwroot\\assets\\icons\\Kaaf(K).svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\Kaaf(K).svg"
+    },
+    {
+      "Id": "C:\\EhtishamAli\\UpdatedWork\\UpdatedWork\\Hidayah\\Hidayah\\Hidayah\\Hidayah\\wwwroot\\assets\\icons\\Khaa(Kh).svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\Khaa(Kh).svg"
+    },
+    {
+      "Id": "C:\\EhtishamAli\\UpdatedWork\\UpdatedWork\\Hidayah\\Hidayah\\Hidayah\\Hidayah\\wwwroot\\assets\\icons\\Laam(L).svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\Laam(L).svg"
+    },
+    {
+      "Id": "C:\\EhtishamAli\\UpdatedWork\\UpdatedWork\\Hidayah\\Hidayah\\Hidayah\\Hidayah\\wwwroot\\assets\\icons\\Meem(M).svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\Meem(M).svg"
+    },
+    {
+      "Id": "C:\\EhtishamAli\\UpdatedWork\\UpdatedWork\\Hidayah\\Hidayah\\Hidayah\\Hidayah\\wwwroot\\assets\\icons\\Noon(N).svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\Noon(N).svg"
+    },
+    {
+      "Id": "C:\\EhtishamAli\\UpdatedWork\\UpdatedWork\\Hidayah\\Hidayah\\Hidayah\\Hidayah\\wwwroot\\assets\\icons\\Qaaf(Q–deepQ).svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\Qaaf(Q–deepQ).svg"
+    },
+    {
+      "Id": "C:\\EhtishamAli\\UpdatedWork\\UpdatedWork\\Hidayah\\Hidayah\\Hidayah\\Hidayah\\wwwroot\\assets\\icons\\Raa(R).svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\Raa(R).svg"
+    },
+    {
+      "Id": "C:\\EhtishamAli\\UpdatedWork\\UpdatedWork\\Hidayah\\Hidayah\\Hidayah\\Hidayah\\wwwroot\\assets\\icons\\Saa(Th).svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\Saa(Th).svg"
+    },
+    {
+      "Id": "C:\\EhtishamAli\\UpdatedWork\\UpdatedWork\\Hidayah\\Hidayah\\Hidayah\\Hidayah\\wwwroot\\assets\\icons\\Saad(Ṣ–heavyS).svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\Saad(Ṣ–heavyS).svg"
+    },
+    {
+      "Id": "C:\\EhtishamAli\\UpdatedWork\\UpdatedWork\\Hidayah\\Hidayah\\Hidayah\\Hidayah\\wwwroot\\assets\\icons\\Seen(S).svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\Seen(S).svg"
+    },
+    {
+      "Id": "C:\\EhtishamAli\\UpdatedWork\\UpdatedWork\\Hidayah\\Hidayah\\Hidayah\\Hidayah\\wwwroot\\assets\\icons\\Sheen(Sh).svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\Sheen(Sh).svg"
+    },
+    {
+      "Id": "C:\\EhtishamAli\\UpdatedWork\\UpdatedWork\\Hidayah\\Hidayah\\Hidayah\\Hidayah\\wwwroot\\assets\\icons\\Taa(T).svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\Taa(T).svg"
+    },
+    {
+      "Id": "C:\\EhtishamAli\\UpdatedWork\\UpdatedWork\\Hidayah\\Hidayah\\Hidayah\\Hidayah\\wwwroot\\assets\\icons\\Taa(Ṭ–heavyT).svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\Taa(Ṭ–heavyT).svg"
+    },
+    {
+      "Id": "C:\\EhtishamAli\\UpdatedWork\\UpdatedWork\\Hidayah\\Hidayah\\Hidayah\\Hidayah\\wwwroot\\assets\\icons\\Waw(W).svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\Waw(W).svg"
+    },
+    {
+      "Id": "C:\\EhtishamAli\\UpdatedWork\\UpdatedWork\\Hidayah\\Hidayah\\Hidayah\\Hidayah\\wwwroot\\assets\\icons\\Yaa(Y).svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\Yaa(Y).svg"
+    },
+    {
+      "Id": "C:\\EhtishamAli\\UpdatedWork\\UpdatedWork\\Hidayah\\Hidayah\\Hidayah\\Hidayah\\wwwroot\\assets\\icons\\Zaa(Ẓ–heavyZ).svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\Zaa(Ẓ–heavyZ).svg"
+    },
+    {
+      "Id": "C:\\EhtishamAli\\UpdatedWork\\UpdatedWork\\Hidayah\\Hidayah\\Hidayah\\Hidayah\\wwwroot\\assets\\icons\\Zay(Z).svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\Zay(Z).svg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Hidayah.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Hidayah.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Hidayah.props",
+      "PackagePath": "build\\Hidayah.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Hidayah.props",
+      "PackagePath": "buildMultiTargeting\\Hidayah.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Hidayah.props",
+      "PackagePath": "buildTransitive\\Hidayah.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

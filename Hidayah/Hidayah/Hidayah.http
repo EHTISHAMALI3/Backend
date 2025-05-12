@@ -1,0 +1,6 @@
+@Hidayah_HostAddress = http://localhost:5177
+
+GET {{Hidayah_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
