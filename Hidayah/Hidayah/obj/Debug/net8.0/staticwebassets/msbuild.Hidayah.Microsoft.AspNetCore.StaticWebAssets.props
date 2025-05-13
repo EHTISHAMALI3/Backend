@@ -234,6 +234,24 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\audio\Compound-Letters-Audios\BaaMeem.wav'))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\audio\Compound-Letters-Audios\BaaNoonNoon.wav'))">
+      <SourceType>Package</SourceType>
+      <SourceId>Hidayah</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Hidayah</BasePath>
+      <RelativePath>assets/audio/Compound-Letters-Audios/BaaNoonNoon.wav</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>67m5jzgmf3</Fingerprint>
+      <Integrity>XiHL2Fe5sTrNYkkqkP0Y0u2pFnDGo1SGQq9YPN8+Bng=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\audio\Compound-Letters-Audios\BaaNoonNoon.wav'))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\audio\Compound-Letters-Audios\BaaSeen.wav'))">
       <SourceType>Package</SourceType>
       <SourceId>Hidayah</SourceId>
@@ -863,24 +881,6 @@
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\audio\Compound-Letters-Audios\TaaKaafSaa.wav'))</OriginalItemSpec>
-    </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\audio\Compound-Letters-Audios\TaaKaafSaa11.wav'))">
-      <SourceType>Package</SourceType>
-      <SourceId>Hidayah</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/Hidayah</BasePath>
-      <RelativePath>assets/audio/Compound-Letters-Audios/TaaKaafSaa11.wav</RelativePath>
-      <AssetKind>All</AssetKind>
-      <AssetMode>All</AssetMode>
-      <AssetRole>Primary</AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>ymsim8r42k</Fingerprint>
-      <Integrity>hvgXv8yrjciwYr1HLyM/fID1snQGKRav5MZaG0VsuK8=</Integrity>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\audio\Compound-Letters-Audios\TaaKaafSaa11.wav'))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\audio\Compound-Letters-Audios\TaaMeem.wav'))">
       <SourceType>Package</SourceType>
@@ -1764,6 +1764,24 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\icons\Compound-Letters-Icons\BaaMeem.svg'))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\icons\Compound-Letters-Icons\BaaNoonNoon.svg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>Hidayah</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Hidayah</BasePath>
+      <RelativePath>assets/icons/Compound-Letters-Icons/BaaNoonNoon.svg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>t169ehuoqd</Fingerprint>
+      <Integrity>4Rg6G/oRDpQ3NpSMN15bnyZdo1VfGqc1Quwu2inCD8Q=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\icons\Compound-Letters-Icons\BaaNoonNoon.svg'))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\icons\Compound-Letters-Icons\BaaSeen.svg'))">
       <SourceType>Package</SourceType>
       <SourceId>Hidayah</SourceId>
@@ -2393,24 +2411,6 @@
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\icons\Compound-Letters-Icons\TaaKaafSaa.svg'))</OriginalItemSpec>
-    </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\icons\Compound-Letters-Icons\TaaKaafSaa11.svg'))">
-      <SourceType>Package</SourceType>
-      <SourceId>Hidayah</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/Hidayah</BasePath>
-      <RelativePath>assets/icons/Compound-Letters-Icons/TaaKaafSaa11.svg</RelativePath>
-      <AssetKind>All</AssetKind>
-      <AssetMode>All</AssetMode>
-      <AssetRole>Primary</AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>sljspyj9ab</Fingerprint>
-      <Integrity>wLzsu+SOF6fyoKKMWRQesXoupTH8zRFH8iOy5OQsy1M=</Integrity>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\icons\Compound-Letters-Icons\TaaKaafSaa11.svg'))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\icons\Compound-Letters-Icons\TaaMeem.svg'))">
       <SourceType>Package</SourceType>

@@ -5772,11 +5772,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\EhtishamAli\\UpdatedWork\\UpdatedWork\\Hidayah\\Hidayah\\Hidayah\\Hidayah.Application\\Hidayah.Application.csproj",
+      "projectUniqueName": "C:\\EhtishamAli\\Backend\\Hidayah\\Hidayah.Application\\Hidayah.Application.csproj",
       "projectName": "Hidayah.Application",
-      "projectPath": "C:\\EhtishamAli\\UpdatedWork\\UpdatedWork\\Hidayah\\Hidayah\\Hidayah\\Hidayah.Application\\Hidayah.Application.csproj",
+      "projectPath": "C:\\EhtishamAli\\Backend\\Hidayah\\Hidayah.Application\\Hidayah.Application.csproj",
       "packagesPath": "C:\\Users\\ehtishamali3\\.nuget\\packages\\",
-      "outputPath": "C:\\EhtishamAli\\UpdatedWork\\UpdatedWork\\Hidayah\\Hidayah\\Hidayah\\Hidayah.Application\\obj\\",
+      "outputPath": "C:\\EhtishamAli\\Backend\\Hidayah\\Hidayah.Application\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -5798,8 +5798,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\EhtishamAli\\UpdatedWork\\UpdatedWork\\Hidayah\\Hidayah\\Hidayah\\Hidayah.Domain\\Hidayah.Domain.csproj": {
-              "projectPath": "C:\\EhtishamAli\\UpdatedWork\\UpdatedWork\\Hidayah\\Hidayah\\Hidayah\\Hidayah.Domain\\Hidayah.Domain.csproj"
+            "C:\\EhtishamAli\\Backend\\Hidayah\\Hidayah.Domain\\Hidayah.Domain.csproj": {
+              "projectPath": "C:\\EhtishamAli\\Backend\\Hidayah\\Hidayah.Domain\\Hidayah.Domain.csproj"
             }
           }
         }

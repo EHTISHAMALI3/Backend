@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Hidayah.Infrastrcture")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e675f1242c991f63e7babd88ac143abd95ef9a53")]
 [assembly: System.Reflection.AssemblyProductAttribute("Hidayah.Infrastrcture")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Hidayah.Infrastrcture")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

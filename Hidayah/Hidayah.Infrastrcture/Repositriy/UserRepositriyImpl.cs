@@ -116,6 +116,7 @@ namespace Hidayah.Infrastrcture.Repositriy
                 throw new KeyNotFoundException("User not found");
 
             if (user.IsLocked && user.LockoutEndTime > DateTime.Now)
+
                 throw new UnauthorizedAccessException("Account is locked");
 
             if (!BCrypt.Net.BCrypt.Verify(decryptedPassword, user.PasswordHash))
@@ -179,7 +180,7 @@ namespace Hidayah.Infrastrcture.Repositriy
                 if (user.FailedLoginAttempts >= 5)
                 {
                     user.IsLocked = true;
-                    user.LockoutEndTime = DateTime.UtcNow.AddMinutes(30); // Lock for 30 minutes
+                    user.LockoutEndTime = DateTime.UtcNow.AddMinutes(10); // Lock for 10 minutes
                 }
                 _context.BGS_HA_TBL_USERS.Update(user);
                 await _context.SaveChangesAsync();

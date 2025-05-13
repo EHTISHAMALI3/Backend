@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gDtN3ssysTI=",
+  "dgSpecHash": "/NLjpsZJu6U=",
   "success": true,
-  "projectFilePath": "C:\\EhtishamAli\\UpdatedWork\\UpdatedWork\\Hidayah\\Hidayah\\Hidayah\\Hidayah.Infrastrcture\\Hidayah.Infrastrcture.csproj",
+  "projectFilePath": "C:\\EhtishamAli\\Backend\\Hidayah\\Hidayah.Infrastrcture\\Hidayah.Infrastrcture.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ehtishamali3\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\ehtishamali3\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

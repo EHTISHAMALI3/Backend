@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\EhtishamAli\\UpdatedWork\\UpdatedWork\\Hidayah\\Hidayah\\Hidayah\\Hidayah.Domain\\Hidayah.Domain.csproj": {}
+    "C:\\EhtishamAli\\Backend\\Hidayah\\Hidayah.Domain\\Hidayah.Domain.csproj": {}
   },
   "projects": {
-    "C:\\EhtishamAli\\UpdatedWork\\UpdatedWork\\Hidayah\\Hidayah\\Hidayah\\Hidayah.Domain\\Hidayah.Domain.csproj": {
+    "C:\\EhtishamAli\\Backend\\Hidayah\\Hidayah.Domain\\Hidayah.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\EhtishamAli\\UpdatedWork\\UpdatedWork\\Hidayah\\Hidayah\\Hidayah\\Hidayah.Domain\\Hidayah.Domain.csproj",
+        "projectUniqueName": "C:\\EhtishamAli\\Backend\\Hidayah\\Hidayah.Domain\\Hidayah.Domain.csproj",
         "projectName": "Hidayah.Domain",
-        "projectPath": "C:\\EhtishamAli\\UpdatedWork\\UpdatedWork\\Hidayah\\Hidayah\\Hidayah\\Hidayah.Domain\\Hidayah.Domain.csproj",
+        "projectPath": "C:\\EhtishamAli\\Backend\\Hidayah\\Hidayah.Domain\\Hidayah.Domain.csproj",
         "packagesPath": "C:\\Users\\ehtishamali3\\.nuget\\packages\\",
-        "outputPath": "C:\\EhtishamAli\\UpdatedWork\\UpdatedWork\\Hidayah\\Hidayah\\Hidayah\\Hidayah.Domain\\obj\\",
+        "outputPath": "C:\\EhtishamAli\\Backend\\Hidayah\\Hidayah.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -46,3 +46,16 @@ C:\EhtishamAli\UpdatedWork\UpdatedWork\Hidayah\Hidayah\Hidayah\Hidayah.Domain\ob
 C:\EhtishamAli\UpdatedWork\UpdatedWork\Hidayah\Hidayah\Hidayah\Hidayah.Domain\obj\Debug\net8.0\refint\Hidayah.Domain.dll
 C:\EhtishamAli\UpdatedWork\UpdatedWork\Hidayah\Hidayah\Hidayah\Hidayah.Domain\obj\Debug\net8.0\Hidayah.Domain.pdb
 C:\EhtishamAli\UpdatedWork\UpdatedWork\Hidayah\Hidayah\Hidayah\Hidayah.Domain\obj\Debug\net8.0\ref\Hidayah.Domain.dll
+C:\EhtishamAli\Backend\Hidayah\Hidayah.Domain\bin\Debug\net8.0\Hidayah.Domain.deps.json
+C:\EhtishamAli\Backend\Hidayah\Hidayah.Domain\bin\Debug\net8.0\Hidayah.Domain.dll
+C:\EhtishamAli\Backend\Hidayah\Hidayah.Domain\bin\Debug\net8.0\Hidayah.Domain.pdb
+C:\EhtishamAli\Backend\Hidayah\Hidayah.Domain\obj\Debug\net8.0\Hidayah.Domain.csproj.AssemblyReference.cache
+C:\EhtishamAli\Backend\Hidayah\Hidayah.Domain\obj\Debug\net8.0\Hidayah.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\EhtishamAli\Backend\Hidayah\Hidayah.Domain\obj\Debug\net8.0\Hidayah.Domain.AssemblyInfoInputs.cache
+C:\EhtishamAli\Backend\Hidayah\Hidayah.Domain\obj\Debug\net8.0\Hidayah.Domain.AssemblyInfo.cs
+C:\EhtishamAli\Backend\Hidayah\Hidayah.Domain\obj\Debug\net8.0\Hidayah.Domain.csproj.CoreCompileInputs.cache
+C:\EhtishamAli\Backend\Hidayah\Hidayah.Domain\obj\Debug\net8.0\Hidayah.Domain.sourcelink.json
+C:\EhtishamAli\Backend\Hidayah\Hidayah.Domain\obj\Debug\net8.0\Hidayah.Domain.dll
+C:\EhtishamAli\Backend\Hidayah\Hidayah.Domain\obj\Debug\net8.0\refint\Hidayah.Domain.dll
+C:\EhtishamAli\Backend\Hidayah\Hidayah.Domain\obj\Debug\net8.0\Hidayah.Domain.pdb
+C:\EhtishamAli\Backend\Hidayah\Hidayah.Domain\obj\Debug\net8.0\ref\Hidayah.Domain.dll

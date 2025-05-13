@@ -11,6 +11,7 @@ wwwroot\assets\audio\Compound-Letters-Audios\BaaJeem.wav
 wwwroot\assets\audio\Compound-Letters-Audios\BaaKaafTaa.wav
 wwwroot\assets\audio\Compound-Letters-Audios\BaaLaamBaa.wav
 wwwroot\assets\audio\Compound-Letters-Audios\BaaMeem.wav
+wwwroot\assets\audio\Compound-Letters-Audios\BaaNoonNoon.wav
 wwwroot\assets\audio\Compound-Letters-Audios\BaaSeen.wav
 wwwroot\assets\audio\Compound-Letters-Audios\BaaYaa.wav
 wwwroot\assets\audio\Compound-Letters-Audios\BaaYaaLaam.wav
@@ -46,7 +47,6 @@ wwwroot\assets\audio\Compound-Letters-Audios\Taa(T).wav
 wwwroot\assets\audio\Compound-Letters-Audios\TaaAlif(Taa).wav
 wwwroot\assets\audio\Compound-Letters-Audios\TaaHaa.wav
 wwwroot\assets\audio\Compound-Letters-Audios\TaaKaafSaa.wav
-wwwroot\assets\audio\Compound-Letters-Audios\TaaKaafSaa11.wav
 wwwroot\assets\audio\Compound-Letters-Audios\TaaMeem.wav
 wwwroot\assets\audio\Compound-Letters-Audios\TaaNoonLaam.wav
 wwwroot\assets\audio\Compound-Letters-Audios\TaaSeen.wav
@@ -96,6 +96,7 @@ wwwroot\assets\icons\Compound-Letters-Icons\BaaJeem.svg
 wwwroot\assets\icons\Compound-Letters-Icons\BaaKaafTaa.svg
 wwwroot\assets\icons\Compound-Letters-Icons\BaaLaamBaa.svg
 wwwroot\assets\icons\Compound-Letters-Icons\BaaMeem.svg
+wwwroot\assets\icons\Compound-Letters-Icons\BaaNoonNoon.svg
 wwwroot\assets\icons\Compound-Letters-Icons\BaaSeen.svg
 wwwroot\assets\icons\Compound-Letters-Icons\BaaYaa.svg
 wwwroot\assets\icons\Compound-Letters-Icons\BaaYaaLaam.svg
@@ -131,7 +132,6 @@ wwwroot\assets\icons\Compound-Letters-Icons\Taa(T).svg
 wwwroot\assets\icons\Compound-Letters-Icons\TaaAlif(Taa).svg
 wwwroot\assets\icons\Compound-Letters-Icons\TaaHaa.svg
 wwwroot\assets\icons\Compound-Letters-Icons\TaaKaafSaa.svg
-wwwroot\assets\icons\Compound-Letters-Icons\TaaKaafSaa11.svg
 wwwroot\assets\icons\Compound-Letters-Icons\TaaMeem.svg
 wwwroot\assets\icons\Compound-Letters-Icons\TaaNoonLaam.svg
 wwwroot\assets\icons\Compound-Letters-Icons\TaaSeen.svg
