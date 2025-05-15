@@ -102,67 +102,91 @@ namespace Hidayah.Infrastrcture.Repositriy
         }
 
 
-        public async Task<LoginResponse> LoginUserAsync(LoginRequest loginRequest, HttpRequest httpRequest)
+        public async Task<mGeneric.mApiResponse<LoginResponse>> LoginUserAsync(LoginRequest loginRequest, HttpRequest httpRequest)
         {
-            // Decrypt username/email and password
-            var decryptedUsernameOrEmail = _decryptionService.DecryptWithPrivateKey(loginRequest.UsernameOrEmail);
-            var decryptedPassword = _decryptionService.DecryptWithPrivateKey(loginRequest.Password);
-
-            if (string.IsNullOrEmpty(decryptedUsernameOrEmail) || string.IsNullOrEmpty(decryptedPassword))
-                throw new UnauthorizedAccessException("Decryption failed. Invalid credentials.");
-
-            var user = await GetUserByUsernameOrEmailAsync(decryptedUsernameOrEmail);
-            if (user == null)
-                throw new KeyNotFoundException("User not found");
-
-            if (user.IsLocked && user.LockoutEndTime > DateTime.Now)
-
-                throw new UnauthorizedAccessException("Account is locked");
-
-            if (!BCrypt.Net.BCrypt.Verify(decryptedPassword, user.PasswordHash))
+            try
             {
+                // Decrypt username/email and password
+                var decryptedUsernameOrEmail = _decryptionService.DecryptWithPrivateKey(loginRequest.UsernameOrEmail);
+                var decryptedPassword = _decryptionService.DecryptWithPrivateKey(loginRequest.Password);
+
+                if (string.IsNullOrEmpty(decryptedUsernameOrEmail) || string.IsNullOrEmpty(decryptedPassword))
+                    return new mGeneric.mApiResponse<LoginResponse>(401, "Decryption failed. Invalid credentials.");
+
+                var user = await GetUserByUsernameOrEmailAsync(decryptedUsernameOrEmail);
+                if (user == null)
+                    return new mGeneric.mApiResponse<LoginResponse>(404, "User not found");
+
+                if (user.IsLocked)
+                {
+                    // Ensure both times are in UTC for proper comparison
+                    DateTime currentTimeUtc = DateTime.UtcNow;
+
+                    // Check if LockoutEndTime is not null and is greater than the current time in UTC
+                    if (user.LockoutEndTime.HasValue && user.LockoutEndTime.Value > currentTimeUtc)
+                    {
+                        // Convert LockoutEndTime from UTC to PST (UTC +5)
+                        DateTime convertedPST = TimeZoneInfo.ConvertTimeFromUtc(user.LockoutEndTime.Value, TimeZoneInfo.FindSystemTimeZoneById("Asia/Karachi"));
+
+                        // Return the response with the converted time in PST
+                        return new mGeneric.mApiResponse<LoginResponse>(403, "Account is locked until " + convertedPST.ToString("g"));
+                    }
+                }
+
+
+
+                if (!BCrypt.Net.BCrypt.Verify(decryptedPassword, user.PasswordHash))
+                {
+                    await InsertLoginLogAsync(new UserLoginLog
+                    {
+                        UserId = user.UserId,
+                        AttemptTime = DateTime.UtcNow,
+                        IsSuccessful = false,
+                        FailedReason = "Invalid password",
+                        IPAddress = httpRequest.HttpContext.Connection.RemoteIpAddress?.ToString(),
+                        UserAgent = httpRequest.Headers["User-Agent"].ToString()
+                    });
+
+                    await IncrementFailedLoginAttemptsAsync(user.UserId);
+
+                    return new mGeneric.mApiResponse<LoginResponse>(401, "Invalid credentials");
+                }
+
+                await ResetFailedLoginAttemptsAsync(user.UserId);
+
                 await InsertLoginLogAsync(new UserLoginLog
                 {
                     UserId = user.UserId,
                     AttemptTime = DateTime.UtcNow,
-                    IsSuccessful = false,
-                    FailedReason = "Invalid password",
+                    IsSuccessful = true,
+                    FailedReason = "Successful login",
                     IPAddress = httpRequest.HttpContext.Connection.RemoteIpAddress?.ToString(),
                     UserAgent = httpRequest.Headers["User-Agent"].ToString()
                 });
 
-                await IncrementFailedLoginAttemptsAsync(user.UserId);
+                var token = GenerateToken(user);
 
-                throw new UnauthorizedAccessException("Invalid credentials");
+                var response = new LoginResponse
+                {
+                    Token = token,
+                    UserId = _encryptionService.EncryptWithPublicKey(user.UserId),
+                    UserName = _encryptionService.EncryptWithPublicKey(user.UserName),
+                    Email = _encryptionService.EncryptWithPublicKey(user.Email),
+                    Role = _encryptionService.EncryptWithPublicKey(user.RoleId.ToString()),
+                    IsLocked = _encryptionService.EncryptWithPublicKey(user.IsLocked.ToString()),
+                    FailedLoginAttempts = _encryptionService.EncryptWithPublicKey(user.FailedLoginAttempts.ToString())
+                };
+
+                return new mGeneric.mApiResponse<LoginResponse>(200, "Login successful", response);
             }
-
-            await ResetFailedLoginAttemptsAsync(user.UserId);
-
-            await InsertLoginLogAsync(new UserLoginLog
+            catch (Exception ex)
             {
-                UserId = user.UserId,
-                AttemptTime = DateTime.UtcNow,
-                IsSuccessful = true,
-                FailedReason = "Successful login",
-                IPAddress = httpRequest.HttpContext.Connection.RemoteIpAddress?.ToString(),
-                UserAgent = httpRequest.Headers["User-Agent"].ToString()
-            });
-            var token = GenerateToken(user);
-
-            var response = new LoginResponse
-            {
-                Token = token,
-                UserId = _encryptionService.EncryptWithPublicKey(user.UserId),
-                UserName = _encryptionService.EncryptWithPublicKey(user.UserName),
-                Email = _encryptionService.EncryptWithPublicKey(user.Email),
-                Role = _encryptionService.EncryptWithPublicKey(user.RoleId.ToString()), // Assuming you have a Role property or related table
-                IsLocked = _encryptionService.EncryptWithPublicKey(user.IsLocked.ToString()),
-                FailedLoginAttempts = _encryptionService.EncryptWithPublicKey(user.FailedLoginAttempts.ToString())
-            };
-
-            return response;
-
+                // Log the error here
+                _logger.LogError(ex, "LoginUserAsync failed");
+                return new mGeneric.mApiResponse<LoginResponse>(500, "Internal server error");
+            }
         }
+
 
 
         public async Task<User> GetUserByUsernameOrEmailAsync(string usernameOrEmail)
@@ -180,7 +204,7 @@ namespace Hidayah.Infrastrcture.Repositriy
                 if (user.FailedLoginAttempts >= 5)
                 {
                     user.IsLocked = true;
-                    user.LockoutEndTime = DateTime.UtcNow.AddMinutes(10); // Lock for 10 minutes
+                    user.LockoutEndTime = DateTime.UtcNow.AddMinutes(3); // Lock for 2 minutes
                 }
                 _context.BGS_HA_TBL_USERS.Update(user);
                 await _context.SaveChangesAsync();

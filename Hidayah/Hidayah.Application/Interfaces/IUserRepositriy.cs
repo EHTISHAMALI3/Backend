@@ -13,7 +13,7 @@ namespace Hidayah.Infrastrcture.Repositriy
     public interface IUserRepositriy
     {
         public Task<mGeneric.mApiResponse<User>> RegisterUserAsync(User model);
-        public Task<LoginResponse> LoginUserAsync(LoginRequest loginRequest, HttpRequest httpRequest);
+        public Task<mGeneric.mApiResponse<LoginResponse>> LoginUserAsync(LoginRequest loginRequest, HttpRequest httpRequest);
         public Task<bool> UserExistsAsync(string userName, string email);
         Task<User> GetUserByUsernameOrEmailAsync(string usernameOrEmail);
         Task IncrementFailedLoginAttemptsAsync(string userId);

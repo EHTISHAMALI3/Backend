@@ -47,31 +47,35 @@ namespace Hidayah.Controllers
             return StatusCode(response.RespCode, response);
         }
         [HttpPost("login")]
-        public async Task<ActionResult<mGeneric.mApiResponse<object>>> Login([FromBody] LoginRequest loginRequest)
+        public async Task<ActionResult<mGeneric.mApiResponse<LoginResponse>>> Login([FromBody] LoginRequest loginRequest)
         {
             if (string.IsNullOrEmpty(loginRequest.UsernameOrEmail) || string.IsNullOrEmpty(loginRequest.Password))
             {
-                return BadRequest(new mGeneric.mApiResponse<object>(400, "Username/Email or Password is required"));
+                return BadRequest(new mGeneric.mApiResponse<LoginResponse>(400, "Username/Email or Password is required"));
             }
 
             try
             {
-                var result = await _userRepository.LoginUserAsync(loginRequest, Request);
-                return Ok(new mGeneric.mApiResponse<object>(200, "Login successful", new { Token = result }));
-            }
-            catch (UnauthorizedAccessException ex)
-            {
-                return Unauthorized(new mGeneric.mApiResponse<object>(401, ex.Message));
-            }
-            catch (KeyNotFoundException ex)
-            {
-                return NotFound(new mGeneric.mApiResponse<object>(404, ex.Message));
+                var response = await _userRepository.LoginUserAsync(loginRequest, Request);
+
+                if (response.RespCode == 200)
+                    return Ok(response);
+                else if (response.RespCode == 401)
+                    return Unauthorized(response);
+                else if (response.RespCode == 403)
+                    return StatusCode(403, response);
+                else if (response.RespCode == 404)
+                    return NotFound(response);
+                else
+                    return StatusCode(500, new mGeneric.mApiResponse<LoginResponse>(500, "An unexpected error occurred"));
             }
             catch (Exception ex)
             {
-                return StatusCode(500, new mGeneric.mApiResponse<object>(500, "An error occurred during login"));
+                _logger.LogError(ex, "Unhandled exception in Login endpoint");
+                return StatusCode(500, new mGeneric.mApiResponse<LoginResponse>(500, "Internal server error"));
             }
         }
+
 
     }
 }

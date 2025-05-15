@@ -20,7 +20,7 @@ namespace Hidayah.Infrastrcture.Helpers
 
             var extension = Path.GetExtension(file.FileName).ToLower();
 
-            // Validate file type based on field
+            // Validate file type
             if (fileType == "audio" && !AllowedAudioExtensions.Contains(extension))
             {
                 throw new InvalidOperationException("Only audio files (.mp3, .wav, .ogg) are allowed.");
@@ -34,19 +34,25 @@ namespace Hidayah.Infrastrcture.Helpers
             var sanitizedName = fileNameWithoutExt ?? Guid.NewGuid().ToString("N");
             sanitizedName = Path.GetInvalidFileNameChars().Aggregate(sanitizedName, (current, c) => current.Replace(c, '_'));
 
-            var fileName = $"{sanitizedName}{extension}";
             var folderPath = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot", subFolder);
             Directory.CreateDirectory(folderPath);
 
-            var fullPath = Path.Combine(folderPath, fileName);
+            string fileName = $"{sanitizedName}{extension}";
+            string fullPath = Path.Combine(folderPath, fileName);
 
-            // Save the file to the folder
+            // Check if the file exists, and append a timestamp if necessary
+            if (System.IO.File.Exists(fullPath))
+            {
+                var uniqueSuffix = DateTime.UtcNow.ToString("yyyyMMddHHmmssfff"); // or use Guid.NewGuid()
+                fileName = $"{sanitizedName}_{uniqueSuffix}{extension}";
+                fullPath = Path.Combine(folderPath, fileName);
+            }
+
             using (var stream = new FileStream(fullPath, FileMode.Create))
             {
                 await file.CopyToAsync(stream);
             }
 
-            // Return the relative path (used in the database)
             return Path.Combine(subFolder, fileName).Replace("\\", "/");
         }
     }

@@ -823,7 +823,7 @@
     ],
     "ReturnTypes": [
       {
-        "Type": "Hidayah.Application.Generic.mGeneric\u002BmApiResponse\u00601[[System.Object, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "Type": "Hidayah.Application.Generic.mGeneric\u002BmApiResponse\u00601[[Hidayah.Application.Dtos.LoginResponse, Hidayah.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
         "MediaTypes": [
           "text/plain",
           "application/json",
