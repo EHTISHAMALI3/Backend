@@ -7,28 +7,75 @@
       "RelativeMoniker": "D:0:0:{35BD5C62-E438-43FB-9C31-861C8CAC856C}|Hidayah.Infrastrcture\\Hidayah.Infrastrcture.csproj|solutionrelative:hidayah.infrastrcture\\repositriy\\userrepositriyimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4484ABA8-429C-4BA6-A64E-401AEAFB7E67}|Hidayah\\Hidayah.csproj|c:\\ehtishamali\\backend\\hidayah\\hidayah\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4484ABA8-429C-4BA6-A64E-401AEAFB7E67}|Hidayah\\Hidayah.csproj|solutionrelative:hidayah\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C7E7FEBE-6A69-4D63-A3E1-0BA4582C7120}|Hidayah.Application\\Hidayah.Application.csproj|c:\\ehtishamali\\backend\\hidayah\\hidayah.application\\interfaces\\iuserrepositriy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C7E7FEBE-6A69-4D63-A3E1-0BA4582C7120}|Hidayah.Application\\Hidayah.Application.csproj|solutionrelative:hidayah.application\\interfaces\\iuserrepositriy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4484ABA8-429C-4BA6-A64E-401AEAFB7E67}|Hidayah\\Hidayah.csproj|c:\\ehtishamali\\backend\\hidayah\\hidayah\\custommiddlewares\\jwtmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4484ABA8-429C-4BA6-A64E-401AEAFB7E67}|Hidayah\\Hidayah.csproj|solutionrelative:hidayah\\custommiddlewares\\jwtmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C7E7FEBE-6A69-4D63-A3E1-0BA4582C7120}|Hidayah.Application\\Hidayah.Application.csproj|c:\\ehtishamali\\backend\\hidayah\\hidayah.application\\generic\\mgeneric.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C7E7FEBE-6A69-4D63-A3E1-0BA4582C7120}|Hidayah.Application\\Hidayah.Application.csproj|solutionrelative:hidayah.application\\generic\\mgeneric.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{35BD5C62-E438-43FB-9C31-861C8CAC856C}|Hidayah.Infrastrcture\\Hidayah.Infrastrcture.csproj|c:\\ehtishamali\\backend\\hidayah\\hidayah.infrastrcture\\repositriy\\branchrepositoryimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{35BD5C62-E438-43FB-9C31-861C8CAC856C}|Hidayah.Infrastrcture\\Hidayah.Infrastrcture.csproj|solutionrelative:hidayah.infrastrcture\\repositriy\\branchrepositoryimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4484ABA8-429C-4BA6-A64E-401AEAFB7E67}|Hidayah\\Hidayah.csproj|c:\\ehtishamali\\backend\\hidayah\\hidayah\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4484ABA8-429C-4BA6-A64E-401AEAFB7E67}|Hidayah\\Hidayah.csproj|solutionrelative:hidayah\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{35BD5C62-E438-43FB-9C31-861C8CAC856C}|Hidayah.Infrastrcture\\Hidayah.Infrastrcture.csproj|c:\\ehtishamali\\backend\\hidayah\\hidayah.infrastrcture\\repositriy\\labrepositoryimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{35BD5C62-E438-43FB-9C31-861C8CAC856C}|Hidayah.Infrastrcture\\Hidayah.Infrastrcture.csproj|solutionrelative:hidayah.infrastrcture\\repositriy\\labrepositoryimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C7E7FEBE-6A69-4D63-A3E1-0BA4582C7120}|Hidayah.Application\\Hidayah.Application.csproj|c:\\ehtishamali\\backend\\hidayah\\hidayah.application\\dtos\\loginresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7E7FEBE-6A69-4D63-A3E1-0BA4582C7120}|Hidayah.Application\\Hidayah.Application.csproj|solutionrelative:hidayah.application\\dtos\\loginresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8098274-FD69-4266-A266-F9D26BB866F7}|Hidayah.Domain\\Hidayah.Domain.csproj|c:\\ehtishamali\\backend\\hidayah\\hidayah.domain\\models\\userloginlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8098274-FD69-4266-A266-F9D26BB866F7}|Hidayah.Domain\\Hidayah.Domain.csproj|solutionrelative:hidayah.domain\\models\\userloginlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8098274-FD69-4266-A266-F9D26BB866F7}|Hidayah.Domain\\Hidayah.Domain.csproj|c:\\ehtishamali\\backend\\hidayah\\hidayah.domain\\models\\userroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8098274-FD69-4266-A266-F9D26BB866F7}|Hidayah.Domain\\Hidayah.Domain.csproj|solutionrelative:hidayah.domain\\models\\userroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35BD5C62-E438-43FB-9C31-861C8CAC856C}|Hidayah.Infrastrcture\\Hidayah.Infrastrcture.csproj|c:\\ehtishamali\\backend\\hidayah\\hidayah.infrastrcture\\appdbcontext\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35BD5C62-E438-43FB-9C31-861C8CAC856C}|Hidayah.Infrastrcture\\Hidayah.Infrastrcture.csproj|solutionrelative:hidayah.infrastrcture\\appdbcontext\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7E7FEBE-6A69-4D63-A3E1-0BA4582C7120}|Hidayah.Application\\Hidayah.Application.csproj|c:\\ehtishamali\\backend\\hidayah\\hidayah.application\\dtos\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7E7FEBE-6A69-4D63-A3E1-0BA4582C7120}|Hidayah.Application\\Hidayah.Application.csproj|solutionrelative:hidayah.application\\dtos\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8098274-FD69-4266-A266-F9D26BB866F7}|Hidayah.Domain\\Hidayah.Domain.csproj|c:\\ehtishamali\\backend\\hidayah\\hidayah.domain\\models\\userroleassignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8098274-FD69-4266-A266-F9D26BB866F7}|Hidayah.Domain\\Hidayah.Domain.csproj|solutionrelative:hidayah.domain\\models\\userroleassignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8098274-FD69-4266-A266-F9D26BB866F7}|Hidayah.Domain\\Hidayah.Domain.csproj|c:\\ehtishamali\\backend\\hidayah\\hidayah.domain\\models\\permission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8098274-FD69-4266-A266-F9D26BB866F7}|Hidayah.Domain\\Hidayah.Domain.csproj|solutionrelative:hidayah.domain\\models\\permission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8098274-FD69-4266-A266-F9D26BB866F7}|Hidayah.Domain\\Hidayah.Domain.csproj|c:\\ehtishamali\\backend\\hidayah\\hidayah.domain\\models\\rolepermission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8098274-FD69-4266-A266-F9D26BB866F7}|Hidayah.Domain\\Hidayah.Domain.csproj|solutionrelative:hidayah.domain\\models\\rolepermission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ehtishamali3\\AppData\\Local\\SourceServer\\f1091f34d3f171632f41737488968a84afcdb105952ffc67fa05ac58284481f3\\Hidayah\\Hidayah.Infrastrcture\\Repositriy\\UserRepositriyImpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C8098274-FD69-4266-A266-F9D26BB866F7}|Hidayah.Domain\\Hidayah.Domain.csproj|c:\\ehtishamali\\backend\\hidayah\\hidayah.domain\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C8098274-FD69-4266-A266-F9D26BB866F7}|Hidayah.Domain\\Hidayah.Domain.csproj|solutionrelative:hidayah.domain\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35BD5C62-E438-43FB-9C31-861C8CAC856C}|Hidayah.Infrastrcture\\Hidayah.Infrastrcture.csproj|c:\\ehtishamali\\backend\\hidayah\\hidayah.infrastrcture\\repositriy\\branchrepositoryimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35BD5C62-E438-43FB-9C31-861C8CAC856C}|Hidayah.Infrastrcture\\Hidayah.Infrastrcture.csproj|solutionrelative:hidayah.infrastrcture\\repositriy\\branchrepositoryimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8098274-FD69-4266-A266-F9D26BB866F7}|Hidayah.Domain\\Hidayah.Domain.csproj|c:\\ehtishamali\\backend\\hidayah\\hidayah.domain\\models\\institution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8098274-FD69-4266-A266-F9D26BB866F7}|Hidayah.Domain\\Hidayah.Domain.csproj|solutionrelative:hidayah.domain\\models\\institution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8098274-FD69-4266-A266-F9D26BB866F7}|Hidayah.Domain\\Hidayah.Domain.csproj|c:\\ehtishamali\\backend\\hidayah\\hidayah.domain\\models\\branch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8098274-FD69-4266-A266-F9D26BB866F7}|Hidayah.Domain\\Hidayah.Domain.csproj|solutionrelative:hidayah.domain\\models\\branch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7E7FEBE-6A69-4D63-A3E1-0BA4582C7120}|Hidayah.Application\\Hidayah.Application.csproj|c:\\ehtishamali\\backend\\hidayah\\hidayah.application\\interfaces\\iuserrepositriy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7E7FEBE-6A69-4D63-A3E1-0BA4582C7120}|Hidayah.Application\\Hidayah.Application.csproj|solutionrelative:hidayah.application\\interfaces\\iuserrepositriy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35BD5C62-E438-43FB-9C31-861C8CAC856C}|Hidayah.Infrastrcture\\Hidayah.Infrastrcture.csproj|c:\\ehtishamali\\backend\\hidayah\\hidayah.infrastrcture\\repositriy\\labrepositoryimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35BD5C62-E438-43FB-9C31-861C8CAC856C}|Hidayah.Infrastrcture\\Hidayah.Infrastrcture.csproj|solutionrelative:hidayah.infrastrcture\\repositriy\\labrepositoryimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{35BD5C62-E438-43FB-9C31-861C8CAC856C}|Hidayah.Infrastrcture\\Hidayah.Infrastrcture.csproj|c:\\ehtishamali\\backend\\hidayah\\hidayah.infrastrcture\\helpers\\filehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -50,33 +97,98 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "FileHelper.cs",
-              "DocumentMoniker": "C:\\EhtishamAli\\Backend\\Hidayah\\Hidayah.Infrastrcture\\Helpers\\FileHelper.cs",
-              "RelativeDocumentMoniker": "Hidayah.Infrastrcture\\Helpers\\FileHelper.cs",
-              "ToolTip": "C:\\EhtishamAli\\Backend\\Hidayah\\Hidayah.Infrastrcture\\Helpers\\FileHelper.cs",
-              "RelativeToolTip": "Hidayah.Infrastrcture\\Helpers\\FileHelper.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "JwtMiddleware.cs",
+              "DocumentMoniker": "C:\\EhtishamAli\\Backend\\Hidayah\\Hidayah\\CustomMiddlewares\\JwtMiddleware.cs",
+              "RelativeDocumentMoniker": "Hidayah\\CustomMiddlewares\\JwtMiddleware.cs",
+              "ToolTip": "C:\\EhtishamAli\\Backend\\Hidayah\\Hidayah\\CustomMiddlewares\\JwtMiddleware.cs",
+              "RelativeToolTip": "Hidayah\\CustomMiddlewares\\JwtMiddleware.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCEAAABUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T06:21:39.484Z",
+              "WhenOpened": "2025-05-16T10:21:31.8Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "UsersController.cs",
-              "DocumentMoniker": "C:\\EhtishamAli\\Backend\\Hidayah\\Hidayah\\Controllers\\UsersController.cs",
-              "RelativeDocumentMoniker": "Hidayah\\Controllers\\UsersController.cs",
-              "ToolTip": "C:\\EhtishamAli\\Backend\\Hidayah\\Hidayah\\Controllers\\UsersController.cs",
-              "RelativeToolTip": "Hidayah\\Controllers\\UsersController.cs",
-              "ViewState": "AgIAADkAAAAAAAAAAAAswC8AAAAJAAAAAAAAAA==",
+              "DocumentIndex": 8,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "C:\\EhtishamAli\\Backend\\Hidayah\\Hidayah.Application\\Dtos\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "Hidayah.Application\\Dtos\\LoginRequest.cs",
+              "ToolTip": "C:\\EhtishamAli\\Backend\\Hidayah\\Hidayah.Application\\Dtos\\LoginRequest.cs",
+              "RelativeToolTip": "Hidayah.Application\\Dtos\\LoginRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-13T10:30:39.458Z",
+              "WhenOpened": "2025-05-16T07:07:50.043Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginResponse.cs",
+              "DocumentMoniker": "C:\\EhtishamAli\\Backend\\Hidayah\\Hidayah.Application\\Dtos\\LoginResponse.cs",
+              "RelativeDocumentMoniker": "Hidayah.Application\\Dtos\\LoginResponse.cs",
+              "ToolTip": "C:\\EhtishamAli\\Backend\\Hidayah\\Hidayah.Application\\Dtos\\LoginResponse.cs",
+              "RelativeToolTip": "Hidayah.Application\\Dtos\\LoginResponse.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAowBYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T06:59:34.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Permission.cs",
+              "DocumentMoniker": "C:\\EhtishamAli\\Backend\\Hidayah\\Hidayah.Domain\\Models\\Permission.cs",
+              "RelativeDocumentMoniker": "Hidayah.Domain\\Models\\Permission.cs",
+              "ToolTip": "C:\\EhtishamAli\\Backend\\Hidayah\\Hidayah.Domain\\Models\\Permission.cs",
+              "RelativeToolTip": "Hidayah.Domain\\Models\\Permission.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T06:48:32.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserRoleAssignment.cs",
+              "DocumentMoniker": "C:\\EhtishamAli\\Backend\\Hidayah\\Hidayah.Domain\\Models\\UserRoleAssignment.cs",
+              "RelativeDocumentMoniker": "Hidayah.Domain\\Models\\UserRoleAssignment.cs",
+              "ToolTip": "C:\\EhtishamAli\\Backend\\Hidayah\\Hidayah.Domain\\Models\\UserRoleAssignment.cs",
+              "RelativeToolTip": "Hidayah.Domain\\Models\\UserRoleAssignment.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T06:48:20.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserRoles.cs",
+              "DocumentMoniker": "C:\\EhtishamAli\\Backend\\Hidayah\\Hidayah.Domain\\Models\\UserRoles.cs",
+              "RelativeDocumentMoniker": "Hidayah.Domain\\Models\\UserRoles.cs",
+              "ToolTip": "C:\\EhtishamAli\\Backend\\Hidayah\\Hidayah.Domain\\Models\\UserRoles.cs",
+              "RelativeToolTip": "Hidayah.Domain\\Models\\UserRoles.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABkAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T06:47:55.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserRepositriyImpl.cs",
+              "DocumentMoniker": "C:\\Users\\ehtishamali3\\AppData\\Local\\SourceServer\\f1091f34d3f171632f41737488968a84afcdb105952ffc67fa05ac58284481f3\\Hidayah\\Hidayah.Infrastrcture\\Repositriy\\UserRepositriyImpl.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Users\\ehtishamali3\\AppData\\Local\\SourceServer\\f1091f34d3f171632f41737488968a84afcdb105952ffc67fa05ac58284481f3\\Hidayah\\Hidayah.Infrastrcture\\Repositriy\\UserRepositriyImpl.cs",
+              "ToolTip": "C:\\Users\\ehtishamali3\\AppData\\Local\\SourceServer\\f1091f34d3f171632f41737488968a84afcdb105952ffc67fa05ac58284481f3\\Hidayah\\Hidayah.Infrastrcture\\Repositriy\\UserRepositriyImpl.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\Users\\ehtishamali3\\AppData\\Local\\SourceServer\\f1091f34d3f171632f41737488968a84afcdb105952ffc67fa05ac58284481f3\\Hidayah\\Hidayah.Infrastrcture\\Repositriy\\UserRepositriyImpl.cs [Read Only]",
+              "ViewState": "AgIAABEAAAAAAAAAAAArwHIAAAAAAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T06:14:45.975Z",
+              "EditorCaption": " [Read Only]"
             },
             {
               "$type": "Document",
@@ -86,14 +198,91 @@
               "RelativeDocumentMoniker": "Hidayah.Infrastrcture\\Repositriy\\UserRepositriyImpl.cs",
               "ToolTip": "C:\\EhtishamAli\\Backend\\Hidayah\\Hidayah.Infrastrcture\\Repositriy\\UserRepositriyImpl.cs",
               "RelativeToolTip": "Hidayah.Infrastrcture\\Repositriy\\UserRepositriyImpl.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAqwHwAAABCAAAAAAAAAA==",
+              "ViewState": "AgIAALIAAAAAAAAAAAAAAMIAAABQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-13T10:30:39.63Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 3,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\EhtishamAli\\Backend\\Hidayah\\Hidayah\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "Hidayah\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\EhtishamAli\\Backend\\Hidayah\\Hidayah\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "Hidayah\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAEwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T10:30:39.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "mGeneric.cs",
+              "DocumentMoniker": "C:\\EhtishamAli\\Backend\\Hidayah\\Hidayah.Application\\Generic\\mGeneric.cs",
+              "RelativeDocumentMoniker": "Hidayah.Application\\Generic\\mGeneric.cs",
+              "ToolTip": "C:\\EhtishamAli\\Backend\\Hidayah\\Hidayah.Application\\Generic\\mGeneric.cs",
+              "RelativeToolTip": "Hidayah.Application\\Generic\\mGeneric.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T03:14:09.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserLoginLog.cs",
+              "DocumentMoniker": "C:\\EhtishamAli\\Backend\\Hidayah\\Hidayah.Domain\\Models\\UserLoginLog.cs",
+              "RelativeDocumentMoniker": "Hidayah.Domain\\Models\\UserLoginLog.cs",
+              "ToolTip": "C:\\EhtishamAli\\Backend\\Hidayah\\Hidayah.Domain\\Models\\UserLoginLog.cs",
+              "RelativeToolTip": "Hidayah.Domain\\Models\\UserLoginLog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T07:24:36.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\EhtishamAli\\Backend\\Hidayah\\Hidayah.Infrastrcture\\AppDbContext\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Hidayah.Infrastrcture\\AppDbContext\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\EhtishamAli\\Backend\\Hidayah\\Hidayah.Infrastrcture\\AppDbContext\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Hidayah.Infrastrcture\\AppDbContext\\ApplicationDbContext.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAvwBgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T06:58:00.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RolePermission.cs",
+              "DocumentMoniker": "C:\\EhtishamAli\\Backend\\Hidayah\\Hidayah.Domain\\Models\\RolePermission.cs",
+              "RelativeDocumentMoniker": "Hidayah.Domain\\Models\\RolePermission.cs",
+              "ToolTip": "C:\\EhtishamAli\\Backend\\Hidayah\\Hidayah.Domain\\Models\\RolePermission.cs",
+              "RelativeToolTip": "Hidayah.Domain\\Models\\RolePermission.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T06:48:35.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "FileHelper.cs",
+              "DocumentMoniker": "C:\\EhtishamAli\\Backend\\Hidayah\\Hidayah.Infrastrcture\\Helpers\\FileHelper.cs",
+              "RelativeDocumentMoniker": "Hidayah.Infrastrcture\\Helpers\\FileHelper.cs",
+              "ToolTip": "C:\\EhtishamAli\\Backend\\Hidayah\\Hidayah.Infrastrcture\\Helpers\\FileHelper.cs",
+              "RelativeToolTip": "Hidayah.Infrastrcture\\Helpers\\FileHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T06:21:39.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
               "Title": "GenericRepositoryImpl.cs",
               "DocumentMoniker": "C:\\EhtishamAli\\Backend\\Hidayah\\Hidayah.Infrastrcture\\Repositriy\\GenericRepositoryImpl.cs",
               "RelativeDocumentMoniker": "Hidayah.Infrastrcture\\Repositriy\\GenericRepositoryImpl.cs",
@@ -101,12 +290,11 @@
               "RelativeToolTip": "Hidayah.Infrastrcture\\Repositriy\\GenericRepositoryImpl.cs",
               "ViewState": "AgIAAJ4AAAAAAAAAAAAIwLMAAABHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T06:22:12.383Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-14T06:22:12.383Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 18,
               "Title": "LabRepositoryimpl.cs",
               "DocumentMoniker": "C:\\EhtishamAli\\Backend\\Hidayah\\Hidayah.Infrastrcture\\Repositriy\\LabRepositoryimpl.cs",
               "RelativeDocumentMoniker": "Hidayah.Infrastrcture\\Repositriy\\LabRepositoryimpl.cs",
@@ -119,20 +307,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 14,
               "Title": "BranchRepositoryImpl.cs",
               "DocumentMoniker": "C:\\EhtishamAli\\Backend\\Hidayah\\Hidayah.Infrastrcture\\Repositriy\\BranchRepositoryImpl.cs",
               "RelativeDocumentMoniker": "Hidayah.Infrastrcture\\Repositriy\\BranchRepositoryImpl.cs",
               "ToolTip": "C:\\EhtishamAli\\Backend\\Hidayah\\Hidayah.Infrastrcture\\Repositriy\\BranchRepositoryImpl.cs",
               "RelativeToolTip": "Hidayah.Infrastrcture\\Repositriy\\BranchRepositoryImpl.cs",
-              "ViewState": "AgIAACcAAAAAAAAAAAASwDAAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAWwBwAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-13T10:30:39.61Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 17,
               "Title": "IUserRepositriy.cs",
               "DocumentMoniker": "C:\\EhtishamAli\\Backend\\Hidayah\\Hidayah.Application\\Interfaces\\IUserRepositriy.cs",
               "RelativeDocumentMoniker": "Hidayah.Application\\Interfaces\\IUserRepositriy.cs",
@@ -140,25 +328,50 @@
               "RelativeToolTip": "Hidayah.Application\\Interfaces\\IUserRepositriy.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T03:16:08.656Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-14T03:16:08.656Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "mGeneric.cs",
-              "DocumentMoniker": "C:\\EhtishamAli\\Backend\\Hidayah\\Hidayah.Application\\Generic\\mGeneric.cs",
-              "RelativeDocumentMoniker": "Hidayah.Application\\Generic\\mGeneric.cs",
-              "ToolTip": "C:\\EhtishamAli\\Backend\\Hidayah\\Hidayah.Application\\Generic\\mGeneric.cs",
-              "RelativeToolTip": "Hidayah.Application\\Generic\\mGeneric.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAMAAAAAAAAAA==",
+              "DocumentIndex": 13,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\EhtishamAli\\Backend\\Hidayah\\Hidayah.Domain\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Hidayah.Domain\\Models\\User.cs",
+              "ToolTip": "C:\\EhtishamAli\\Backend\\Hidayah\\Hidayah.Domain\\Models\\User.cs",
+              "RelativeToolTip": "Hidayah.Domain\\Models\\User.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAD4vxgAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T03:14:09.737Z",
+              "WhenOpened": "2025-05-15T03:32:17.371Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 15,
+              "Title": "Institution.cs",
+              "DocumentMoniker": "C:\\EhtishamAli\\Backend\\Hidayah\\Hidayah.Domain\\Models\\Institution.cs",
+              "RelativeDocumentMoniker": "Hidayah.Domain\\Models\\Institution.cs",
+              "ToolTip": "C:\\EhtishamAli\\Backend\\Hidayah\\Hidayah.Domain\\Models\\Institution.cs",
+              "RelativeToolTip": "Hidayah.Domain\\Models\\Institution.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T03:59:52.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Branch.cs",
+              "DocumentMoniker": "C:\\EhtishamAli\\Backend\\Hidayah\\Hidayah.Domain\\Models\\Branch.cs",
+              "RelativeDocumentMoniker": "Hidayah.Domain\\Models\\Branch.cs",
+              "ToolTip": "C:\\EhtishamAli\\Backend\\Hidayah\\Hidayah.Domain\\Models\\Branch.cs",
+              "RelativeToolTip": "Hidayah.Domain\\Models\\Branch.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAA9wCIAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T04:01:06.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
               "Title": "CompoundLettersController.cs",
               "DocumentMoniker": "C:\\EhtishamAli\\Backend\\Hidayah\\Hidayah\\Controllers\\CompoundLettersController.cs",
               "RelativeDocumentMoniker": "Hidayah\\Controllers\\CompoundLettersController.cs",
@@ -166,21 +379,7 @@
               "RelativeToolTip": "Hidayah\\Controllers\\CompoundLettersController.cs",
               "ViewState": "AgIAACMAAAAAAAAAAAAuwFoAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T06:23:07.398Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\EhtishamAli\\Backend\\Hidayah\\Hidayah.Domain\\Models\\User.cs",
-              "RelativeDocumentMoniker": "Hidayah.Domain\\Models\\User.cs",
-              "ToolTip": "C:\\EhtishamAli\\Backend\\Hidayah\\Hidayah.Domain\\Models\\User.cs",
-              "RelativeToolTip": "Hidayah.Domain\\Models\\User.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAcwG0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-15T03:32:17.371Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-14T06:23:07.398Z"
             }
           ]
         }

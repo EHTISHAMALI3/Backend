@@ -1924,6 +1924,22 @@
           "failedLoginAttempts": {
             "type": "string",
             "nullable": true
+          },
+          "canView": {
+            "type": "string",
+            "nullable": true
+          },
+          "canAdd": {
+            "type": "string",
+            "nullable": true
+          },
+          "canUpdate": {
+            "type": "string",
+            "nullable": true
+          },
+          "canDelete": {
+            "type": "string",
+            "nullable": true
           }
         },
         "additionalProperties": false

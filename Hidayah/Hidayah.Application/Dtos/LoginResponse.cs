@@ -15,5 +15,12 @@ namespace Hidayah.Application.Dtos
         public string Role { get; set; } // If you want to send user role as well
         public string IsLocked { get; set; }
         public string FailedLoginAttempts { get; set; }
+
+
+        // Add these for role-based permissions
+        public string CanView { get; set; }
+        public string CanAdd { get; set; }
+        public string CanUpdate { get; set; }
+        public string CanDelete { get; set; }
     }
 }

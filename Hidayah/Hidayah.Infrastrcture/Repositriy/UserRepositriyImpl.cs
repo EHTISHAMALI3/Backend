@@ -43,7 +43,15 @@ namespace Hidayah.Infrastrcture.Repositriy
             try
             {
                 // 1. Determine prefix based on RoleId
-                string prefix = model.RoleId == 5 ? "E-" : "S-";
+                string prefix = model.RoleId switch
+                {
+                    1 => "S-",  // Learner
+                    2 => "E-",  // Instructor
+                    3 => "E-",  // Manager
+                    4 => "E-",  // Admin
+                    5 => "E-",  // SuperAdmin
+                    _ => "S-"   // Default for unknown roles
+                };
 
                 bool userExsist = await _context.BGS_HA_TBL_USERS.AnyAsync(u => u.UserId == model.UserId);
                 if (userExsist)
@@ -67,7 +75,12 @@ namespace Hidayah.Infrastrcture.Repositriy
                 model.UserId = $"{prefix}{nextNumericId:D4}";
 
                 // 5. Check for existing UserId just in case (should not happen, but for safety)
-
+                // 6. Normalize and assign UserName from Email prefix
+                if (!string.IsNullOrEmpty(model.Email))
+                {
+                    var emailPrefix = model.Email.Split('@')[0].Trim().ToLower();
+                    model.UserName = emailPrefix;
+                }
 
                 // 6. Check for duplicate username
                 if (await _context.BGS_HA_TBL_USERS.AnyAsync(u => u.UserName == model.UserName ))
@@ -151,6 +164,14 @@ namespace Hidayah.Infrastrcture.Repositriy
 
                     return new mGeneric.mApiResponse<LoginResponse>(401, "Invalid credentials");
                 }
+                // Fetch role-based permissions from UserRoles table
+                var userRole = await _context.BGS_HA_TBL_USER_ROLES
+                    .FirstOrDefaultAsync(r => r.RoleId == user.RoleId);
+
+                if (userRole == null)
+                {
+                    return new mGeneric.mApiResponse<LoginResponse>(404, "User role not found.");
+                }
 
                 await ResetFailedLoginAttemptsAsync(user.UserId);
 
@@ -172,9 +193,14 @@ namespace Hidayah.Infrastrcture.Repositriy
                     UserId = _encryptionService.EncryptWithPublicKey(user.UserId),
                     UserName = _encryptionService.EncryptWithPublicKey(user.UserName),
                     Email = _encryptionService.EncryptWithPublicKey(user.Email),
-                    Role = _encryptionService.EncryptWithPublicKey(user.RoleId.ToString()),
+                    Role = user.RoleId.ToString(),
                     IsLocked = _encryptionService.EncryptWithPublicKey(user.IsLocked.ToString()),
-                    FailedLoginAttempts = _encryptionService.EncryptWithPublicKey(user.FailedLoginAttempts.ToString())
+                    FailedLoginAttempts = _encryptionService.EncryptWithPublicKey(user.FailedLoginAttempts.ToString()),
+
+                    CanView = _encryptionService.EncryptWithPublicKey(userRole.CanView.ToString()),
+                    CanAdd = _encryptionService.EncryptWithPublicKey(userRole.CanAdd.ToString()),
+                    CanUpdate = _encryptionService.EncryptWithPublicKey(userRole.CanUpdate.ToString()),
+                    CanDelete = _encryptionService.EncryptWithPublicKey(userRole.CanDelete.ToString())
                 };
 
                 return new mGeneric.mApiResponse<LoginResponse>(200, "Login successful", response);

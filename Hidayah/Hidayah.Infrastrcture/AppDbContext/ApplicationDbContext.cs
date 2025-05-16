@@ -22,6 +22,8 @@ namespace Hidayah.Infrastrcture.AppDbContext
         public DbSet<UserLoginLog> BGS_HA_TBL_USER_LOGIN_LOGS { get; set; }
         public DbSet<IndividualLetters> BGS_HA_TBL_INDIVIDUAL_LETTERS { get; set; }
         public DbSet<CompoundLetters> BGS_HA_TBL_COMPOUND_LETTERS { get; set; }
+        public DbSet<UserRoles> BGS_HA_TBL_USER_ROLES { get; set; }
+
 
     }
 }

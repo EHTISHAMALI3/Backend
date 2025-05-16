@@ -32,7 +32,7 @@ namespace Hidayah.Domain.Models
 
             [StringLength(20)]
             [RegularExpression(@"^((03\d{9})|(0[4-9]\d{8,9}))$",
-            ErrorMessage = "Phone must be a valid Pakistani number (e.g., 03001234567 or 05823765891)")]
+            ErrorMessage = "Phone must be a valid number (e.g., 03001234567 or 05823765891)")]
             public string BranchPhone { get; set; } = string.Empty;
 
             [Required(ErrorMessage = "Address is required.")]

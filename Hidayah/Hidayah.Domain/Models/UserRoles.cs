@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace Hidayah.Domain.Models
 {
-    [Table("BGS_HA_TBL_UserRoles")]
+    [Table("BGS_HA_TBL_USER_ROLES")]
     public class UserRoles
     {
         [Key]
@@ -19,6 +19,10 @@ namespace Hidayah.Domain.Models
         [MaxLength(50)]
         public string RoleName { get; set; }
 
-        public string RoleDescription { get; set; }
+        public string Description { get; set; }
+        public bool CanView { get; set; }
+        public bool CanAdd { get; set; }
+        public bool CanUpdate { get; set; }
+        public bool CanDelete { get; set; }
     }
 }
